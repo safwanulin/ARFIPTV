@@ -1,0 +1,4 @@
+posisi logo apple hd merah 
+awal :020200
+akhir ff :5FFFF
+length :3FE00
