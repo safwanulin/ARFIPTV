@@ -1,4 +1,53 @@
+ __        __     ___             __   __                                                 
+|  \ \  / |__) __  |         /\  |__) |__)                                                
+|__/  \/  |__)     |        /~~\ |    |    
+
 posisi logo apple hd merah 
 awal :020200
 akhir ff :5FFFF
 length :3FE00
+
+bahan :
+1.editor sw :https://mh-nexus.de/en/hxd/
+
+2.link resize foto :
+https://www.canva.com/design/play?type=TABQqvMf5YM&category=tACZCp5JRWg&locale=id-ID&analyticsCorrelationId=30f71c78-d7cf-4b28-af07-afd6e1a8b730
+
+atau masuk sini pilih design walpaper dekstop :
+https://www.canva.com/id_id/ 
+
+3.sw :CUSTOM LOGO GROUP  MATRIX_APPLE-DVB-T2_256_6703X5_IR22_CID75_R372_flash
+4.logo :logo dvbt.jpg
+
+tuturial:
+1.set resize foto hd resulosi 1920x1080px convert bahan no 2
+2.foto bisa pakai point bahan no 4 atau bisa pakai foto punya sendiri
+3.size foto hasil convert jangan melebihi ukuran 255 KB 
+4.jalankan hxd hasil unduh bahan point no 1
+5.open dan masukan sw point bahan no 3 ke hxd
+6.tekan ctrl +e
+7.isi start- offset :020200
+8.isi end -offset : 5FFFF
+9.pilih mode hex klik ok
+10.tekan ctrl+c ,tekan ctrl+n,tekan ctrl+v
+11.input/open bahan no 4 ke hxd tekan ctrl+a,ctrl+c kemudian tab untitled...pada hxd
+12.geser dan klik offset 0 kemudian tekan ctrl+b
+13.perhatikan logo yg direplace jangan melebihi offset akhir logo yg mau ganti tadi
+14.apabila aman tinggal tekan ctrl +a ,tekan ctrl+c ,klib tab sw point bahan no 3 ,tekan ctrl+b
+15.untuk simpan tekan ctrl+s atau klik file save as...
+16.sw siap diup ke stb ,semoga sukses 
+
+apabila gagal mesti sanggup perbaiki stbnya 
+resiko ditanggung masing masing 
+ 
+
+                                               
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                                                                                             
+ __                __     ___     ___       ___      ___  __   __      __                 
+|__) \ /    . /\  |__) | |__     |__  |    |__  |__/  |  |__) /  \    /__`  /\     |  /\  
+|__)  |     ./~~\ |  \ | |       |___ |___ |___ |  \  |  |  \ \__/    .__/ /~~\ \__/ /~~\ 
+                                                                                          
+
