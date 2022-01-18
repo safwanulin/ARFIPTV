@@ -1,4 +1,9 @@
 #EXTM3U
+//info admin
+#EXTINF: -1 tvg-logo="" group-title="admin info", fb :arif elektro saja
+https://raw.githubusercontent.com/safwanulin/ARFIPTV/main/converted-ARF.mp4
+#EXTINF: -1 tvg-logo="" group-title="admin info", group fb :DVB-T2 & APP 
+https://raw.githubusercontent.com/safwanulin/ARFIPTV/main/converted-DVBT.mp4
 
 //blink1/aBssjEU7uU
 //blink2/feKJTdDSLx
