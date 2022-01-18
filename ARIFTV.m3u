@@ -5,6 +5,15 @@ https://raw.githubusercontent.com/safwanulin/ARFIPTV/main/converted-ARF.mp4
 #EXTINF: -1 tvg-logo="" group-title="admin info", group fb :DVB-T2 & APP 
 https://raw.githubusercontent.com/safwanulin/ARFIPTV/main/converted-DVBT.mp4
 
+//ganti logo
+#EXTINF: -1 tvg-logo="" group-title="ganti logo", apple merah hd 2.5.6
+https://bit.ly/33L0Uec
+#EXTINF: -1 tvg-logo="" group-title="ganti logo", group fb :foto logo
+https://bit.ly/3qDjfmF
+
+
+
+
 //blink1/aBssjEU7uU
 //blink2/feKJTdDSLx
 //blink3/CPikIoNnQi
