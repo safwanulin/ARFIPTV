@@ -5,11 +5,11 @@ https://raw.githubusercontent.com/safwanulin/ARFIPTV/main/converted-ARF.mp4
 #EXTINF: -1 tvg-logo="" group-title="admin info", group fb :DVB-T2 & APP 
 https://raw.githubusercontent.com/safwanulin/ARFIPTV/main/converted-DVBT.mp4
 
-#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI HD" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Local",RCTI HD
+#EXTINF:-1 group-title="Local",RCTI HD
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/11
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNC TV HD" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Local",MNC TV HD
+#EXTINF:-1 group-title="Local",MNC TV HD
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/12
-#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="Global TV HD" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="Local",Global TV HD
+#EXTINF:-1 group-title="Local",Global TV HD
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/13
 #EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="i News HD" tvg-logo="https://i.ibb.co/zxtL3Xv/inews-warkopteve.png" group-title="Local",i News HD
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/14
