@@ -5,7 +5,6 @@ https://raw.githubusercontent.com/safwanulin/ARFIPTV/main/converted-ARF.mp4
 #EXTINF: -1 tvg-logo="" group-title="admin info", group fb :DVB-T2 & APP 
 https://raw.githubusercontent.com/safwanulin/ARFIPTV/main/converted-DVBT.mp4
 
-#EXTM3U
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI HD" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Local",RCTI HD
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/11
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNC TV HD" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Local",MNC TV HD
