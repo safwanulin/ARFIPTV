@@ -5,8 +5,8 @@ https://raw.githubusercontent.com/safwanulin/ARFIPTV/main/converted-ARF.mp4
 #EXTINF: -1 tvg-logo="https://ibb.co/VSxZpzk" group-title="admin info", group fb :DVB-T2 & APP 
 https://raw.githubusercontent.com/safwanulin/ARFIPTV/main/converted-DVBT.mp4
 
-#EXTINF:-1 group-title="TV LOKAL", RCTI HD
-http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/11
+#EXTINF:-1 group-title="TV LOKAL", full mp3
+https://cdn.pupapi.my.id/arftv/Tri%20Suaka%20Ft%20Nabila%20Dan%20Zidan%20Full%20Album%20Terbaik%20&%20Terpopuler%202021%20Buih%20Jadi%20Permadani.mp3
 #EXTINF:-1 group-title="TV LOKAL", MNC TV HD
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/12
 #EXTINF:-1 group-title="TV LOKAL", GTV HD
