@@ -33,8 +33,11 @@ https://cdn.pupapi.my.id/arftv/wali%20mp3/Wali%20-%20Tobat%20Maksiat%20(TOMAT).m
 https://cdn.pupapi.my.id/arftv/wali%20mp3/Wali%20-%20Ya%20Allah.mp3
 
 
-#EXTINF: -1 tvg-logo="" group-title="VIDEO", Yeyen Novita 1.DJ PRAHU LAYAR TERBARU - DJ ACAN RIMEX
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/qGj25jclNyk/0.jpg" group-title="VIDEO", Yeyen Novita 1.DJ PRAHU LAYAR TERBARU - DJ ACAN RIMEX
 https://cdn.pupapi.my.id/arftv/video/qGj25jclNyk%5b1%5d
+
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/qGj25jclNyk/0.jpg" group-title="VIDEO", Yeyen Novita 1.DJ PRAHU LAYAR TERBARU - DJ ACAN RIMEX
+https://youtu.be/qGj25jclNyk
 
 
 
