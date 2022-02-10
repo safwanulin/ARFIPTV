@@ -42,7 +42,223 @@ https://cdn.pupapi.my.id/arftv/video/Amanda%20Manopo%20ANDIN%20Tanpa%20Batas%20W
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/qGj25jclNyk/0.jpg" group-title="VIDEO MP4 720P", FELIX IRWAN TANPA BATAS WAKTU FULL ALBUM 
 https://cdn.pupapi.my.id/arftv/video/FELIX%20IRWAN%20COVER%20TANPA%20BATAS%20WAKTU%20FULL%20ALBUM%20TERBARU%202021_720p.mp4
 
-#EXTM3U
+
+#EXTINF:-1,Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1,Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1,SCTV
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1,INDOSIAR
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1,KOMPASTV
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1,ANTV
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1,TVONE
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1,NETTV
+http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1,ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1,Global TV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1,TV ONE 2
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1,NET.
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1,Kompas TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+
+#EXTINF:-1,TVRI
+http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:-1,DAAITV
+http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+
+#EXTINF:-1,ELSHINTATV
+http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:-1,BERITASATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+
+#EXTINF:-1,QURANTV
+http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1,SUNAHTV
+http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1,RODJATV
+http://playlist.urfan.web.id/qwr9ew/s/s14/01.m3u8
+
+#EXTINF:-1,CNN-Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
+
+#EXTINF:-1,INDOSIAR
+http://rr2.dens.tv/s/s04/01.m3u8
+
+#EXTINF:-1,ANTV
+http://rr2.dens.tv/s/s07/01.m3u8
+
+#EXTINF:-1,Net TV
+http://rr2.dens.tv/s/s08/01.m3u8
+
+#EXTINF:-1,TVOne
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1,Kompas TV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1,CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+#EXTINF:-1,JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+
+#EXTINF:-1,JITV Yogyakarta
+http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
+
+#EXTINF:-1,ADI TV Yogyakarta
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1,TVKU Semarang
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1,BALI TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+
+#EXTINF:-1,Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+
+#EXTINF:-1,Cahaya TV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1,Nusantara TV
+https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+
+#EXTINF:-1,Sakti TV Madiun
+http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
+
+#EXTINF:-1,SINEMA INDONESIA
+http://rr.dens.tv/h/h155/index2.m3u8
+
+#EXTINF:-1,TVRI
+http://rr2.dens.tv/s/s11/01.m3u8
+
+#EXTINF:-1,JAK TV Jakarta
+http://rr3.dens.tv/s/s46/index.m3u8
+
+#EXTINF:-1,TRANSTV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1515162182_b744100_sleng.m3u8
+
+#EXTINF:-1,TRANS7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1529715011_b744100_sleng.m3u8
+
+#EXTINF:-1,TVRI HD
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1,TVRI SD
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1,SCTV SD
+http://210.210.155.35/session/152c231e-4f72-11ec-84c2-829082668805/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1,TRANS TV FULLHD (USEETV)
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1,TRANS 7 FULLHD (USEETV)
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1,METRO TV HD (USEETV)
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1,METRO TV HD_BACKUP
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+
+#EXTINF:-1,METRO TV SD
+http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
+
+#EXTINF:-1,ANTV SD_BACKUP
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1,NET TV SD
+http://210.210.155.35/session/ca684bb4-4f71-11ec-a3d7-b3009c1b6397/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1,KOMPAS TV SD (USEETV)
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1,KOMPAS TV SD_BACKUP
+http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1,RTV SD (USEETV)
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1,TVN MOVIES SD
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1,K+ SD
+http://210.210.155.35/session/c01c5ce4-4f72-11ec-bcf7-bc5584292bab/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1,K+ SD_BACKUP
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1,KIX SD
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1,AXN SD
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+
+#EXTINF:-1,HITS SD
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+
+#EXTINF:-1,THRILL SD
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1,BLUE ANT SD
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1,BLUE ANT EXTREME SD
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1,BLUE ANT EXTREME SD_BACKUP
+http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1,SONY ONE SD
+http://210.210.155.35:80/uq2663/h/h143/01.m3u8?eroz84.wap.sh.m3u8
+
+#EXTINF:-1,SONY ONE SD_BACKUP
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+
+#EXTINF:-1,SONY GEM TV SD
+http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1,SONY GEM TV SD_BACKUP
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1,CINEMAWORLD SD
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+
+#EXTINF:-1,ZEEBIOSKOP SD
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1,DUNIA GAMES TV SD
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+
+#EXTINF:-1,EGGNET HD
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+
 #EXTINF:-1,AR: Saudi Sunna
 http://match2day.net:8080/aiirrv3660178896552100101-letssgooo/23210VgAE0p11/3
 
