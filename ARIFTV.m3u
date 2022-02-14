@@ -200,6 +200,121 @@ http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1,RTV SD (USEETV)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
 
+#EXTINF:-1,TRANS7
+http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+
+#EXTINF:-1,SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+
+#EXTINF:-1,METROTV
+http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+
+#EXTINF:-1,CNN Indonesia 1
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1,Bloomberg Television
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1,BERITASATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1,BERITASATUWORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
+#EXTINF:-1,BERITASATUENGLISH
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+#EXTINF:-1,Bloomberg TV Australia
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1,Prima Tv Banjarmasin
+http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
+
+#EXTINF:-1,BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
+
+#EXTINF:-1,TVRI MALUKU
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI NTT KUPANG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI NTB MATARAM
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI SPORTS
+http://eroz84.wap.sh/local/tvri_sport.m3u8
+
+#EXTINF:-1,TVRI 3 Budaya
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1,TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+
+#EXTINF:-1,TVRI Bandung
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Aceh
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Bali
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Jambi
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Jawa Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Jawa Tengah
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Jawa Timur
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Kalbar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Kalsel
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+
+#EXTINF:-1,TVRI Kaltim
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Kalteng
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+
+#EXTINF:-1,TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Papua
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Riau
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Sulsel Makasar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Sulteng Palu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Sulut Manado
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Sumatra Selatan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
+
+#EXTINF:-1,Spacetoon
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
+
+
 #EXTINF:-1,TVN MOVIES SD
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 
@@ -476,404 +591,6 @@ http://51.210.199.14/hls/stream.m3u8
 #EXTINF:-1,Persiana Plus (576p)
 http://51.210.199.21/hls/stream.m3u8
 
-#EXTINF:-1,Pluto TV 70s Cinema (684p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1,Pluto TV 80s Rewind (684p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1,Pluto TV 90s Throwback (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1,Pluto TV Action (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=561d7d484dc7c8770484914a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=54&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Black Cinema (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58af4c093a41ca9d4ecabe96&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=80&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Cine (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Cine Acción (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Cine Clásico (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1,Pluto TV Cine Clássicos (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1,Pluto TV Cine Comédia (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1,Pluto TV Cine Drama (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1,Pluto TV Cine Drama (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1,Pluto TV Cine Estelar (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Cine Família (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1,Pluto TV Ciné Rétro (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-
-#EXTINF:-1,Pluto TV Cine Romance (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1,Pluto TV Cine Sucessos (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1,Pluto TV Cine Terror (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1,Pluto TV Cine Terror (684p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Ciné+ (720p) [Not 24/7]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c89a930-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7d7d33d-5784-4dee-a799-d09bd30b065a
-
-#EXTINF:-1,Pluto TV Cinéma (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?appVersion=5.4.0&deviceDNT=0&deviceId=071492b1-cafd-427b-81d4-f532808c8397_d6a39913ac3adbd2&deviceMake=samsung&deviceModel=SM-N976N&deviceType=android,samsung,mobile&deviceVersion=7.1.2_25&marketingRegion=FR&sid=b90a2c1a-a2ce-4601-a02d-abe73477534
-
-#EXTINF:-1,Pluto TV CMT Westerns (684p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Crime Drama (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1,Pluto TV Crime Movies (684p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1,Pluto TV Cult Films (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c31f2f21b553c1f673fb0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1,Pluto TV Drama (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e92e4694c027be6ecece1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=60&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Drama (England) (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91149880d60009d35d27/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf91149880d60009d35d27&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=402&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Drama (Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc190f7bfed110009d934c3&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=200&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Drama Life (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f24662bebe0f0000767de32&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=332&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Drama+ (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffebb618f6cb4000728082c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a9390-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7eed86a2-2fee-402b-9978-ecaffe0235c0
-
-#EXTINF:-1,Pluto TV Filmes Ação (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1,Pluto TV Filmes Nacionais (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1,Pluto TV Fitness (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1,Pluto TV Flicks of Fury (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58e55b14ad8e9c364d55f717&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=112&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Horror (720p)
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=&appStoreUrl=&appVersion=2.0.0&app_name=&deviceDNT=0&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceLat=38.5783&deviceLon=-90.6666&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=37.0.2049.0&serverSideAds=false&sid=6e360db0-724b-11e8-be77-bf4d1417b012&userId=
-
-#EXTINF:-1,Pluto TV MOVIE CHANNEL (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&serverSideAds=true&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=
-
-#EXTINF:-1,Pluto TV Movies (684p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=eddfafe3-0584-11eb-82fe-0242ac110002&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Movies (England) (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Movies (Germany) (360p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=50&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Movies CH (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1,Pluto TV Movies+ (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0a1f73654db655a9274428/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d0a1f73654db655a9274428&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=372611e5-6b4b-4a3f-9491-368034dfa39e&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Movies+ (CH) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c8a6bc64dc7286c6afaf4ab/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5c8a6bc64dc7286c6afaf4ab&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f747754f-ee3e-4968-9e8e-779da031bce9&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Novelas Drama (684p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Novelas Romance (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Novelas Thriller (684p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dc59026b9b000766f9a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=943&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Paramount Movie Channel (684p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1,Pluto TV Paramount+ Picks (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1,Pluto TV Romance (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d
-
-#EXTINF:-1,Pluto TV Romance (England) (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677c0edace7cff8180b16/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677c0edace7cff8180b16&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=57&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Sci-Fi (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4fc274694c027be6ed3eea&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=151&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Spotlight (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Telemundo Telenovelas (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Telenovela (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-
-#EXTINF:-1,Pluto TV Terror (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV TV Land Drama (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=130&terminate=false&userId=
-
-#EXTINF:-1,Pluto TV Westerns (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8df4bc16e34700077e77d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=526&terminate=false&userId=
-
-#EXTINF:-1,Retro Plus 3 (720p)
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-
-#EXTINF:-1,Rotana Cinema (1080p)
-https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-
-#EXTINF:-1,Rotana Cinema (1080p) [Geo-blocked]
-https://hiplayer.hibridcdn.net/t/rotana-cinema.m3u8
-
-#EXTINF:-1,Rotana Cinema KSA (1080p)
-https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-
-#EXTINF:-1,RunTime (1080p)
-https://ammoruntime-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Runtime (Brazil) (1080p) [Geo-blocked]
-https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Rush by AMC (1080p)
-https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,Santhora Short Flim (720p)
-http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
-
-#EXTINF:-1,Sepanj TV (720p) [Not 24/7]
-http://51.210.199.30/hls/stream.m3u8
-
-#EXTINF:-1,SL 1 (720p)
-http://51.210.199.3/hls/stream.m3u8
-
-#EXTINF:-1,SL 2 (720p)
-http://51.210.199.2/hls/stream.m3u8
-
-#EXTINF:-1,Star Cinema (576p)
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
-
-#EXTINF:-1,STIRR FilmRise Free Movies (720p) [Not 24/7]
-https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
-
-#EXTINF:-1,STIRR Gravitas Movies (720p)
-https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-
-#EXTINF:-1,STIRR Horror Movies (720p)
-https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
-
-#EXTINF:-1,STIRR Movies (768p) [Not 24/7]
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-
-#EXTINF:-1,STIRR Mystery Science Theater 3000 (1080p)
-https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
-
-#EXTINF:-1,STIRR Westerns (480p)
-https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
-
-#EXTINF:-1,TehranTV 24 (720p)
-http://51.210.227.132/hls/stream.m3u8
-
-#EXTINF:-1,TELE CINE ACTION (720p)
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-
-#EXTINF:-1,The Film Detective (720p)
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-
-#EXTINF:-1,Top Cine (1080p)
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:-1,TVS Drive In Movie (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-
-#EXTINF:-1,TVS Film Noir Network (360p)
-https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
-
-#EXTINF:-1,Xumo Free Movies (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
-
-#EXTINF:-1,Xumo Free Westerns (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8
-
-#EXTINF:-1,Yupp Thirai (270p)
-http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
-
-#EXTINF:-1,Дом Кино Премиум (1080p) [Not 24/7]
-https://sc.id-tv.kz/domkino_hd.m3u8
-
-#EXTINF:-1,Дорама (480p)
-http://ott-cdn.ucom.am/s95/index.m3u8
-
-#EXTINF:-1,Ел Арна (576p) [Not 24/7]
-https://sc.id-tv.kz/ElArna.m3u8
-
-#EXTINF:-1,Кинозал (VHS 90s) (720p) [Not 24/7]
-https://v2.catcast.tv/content/37925/index.m3u8
-
-#EXTINF:-1,Киномикс (1080p) [Not 24/7]
-https://sc.id-tv.kz/Kinomix_hd.m3u8
-
-#EXTINF:-1,Кинопремьера (1080p) [Not 24/7]
-https://sc.id-tv.kz/Kinopremiera_hd.m3u8
-
-#EXTINF:-1,Киносвидание (1080p) [Not 24/7]
-https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
-
-#EXTINF:-1,Киносемья (1080p) [Not 24/7]
-https://sc.id-tv.kz/Kinosemiya_hd.m3u8
-
-#EXTINF:-1,Кинохит (404p) [Not 24/7]
-https://sc.id-tv.kz/Kinohit_hd.m3u8
-
-#EXTINF:-1,Премьера (480p) [Not 24/7]
-https://v2.catcast.tv/content/39161/index.m3u8
-
-#EXTINF:-1,СТРК (720p) [Not 24/7]
-http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-
-#EXTINF:-1,Фантастика Sci-Fi (304p) [Not 24/7]
-https://v2.catcast.tv/content/38801/index.m3u8
-
-#EXTINF:-1,TRANS7
-http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
-
-#EXTINF:-1,SCTV
-http://210.210.155.35/qwr9ew/s/s03/02.m3u8
-
-#EXTINF:-1,METROTV
-http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
-
-#EXTINF:-1,CNN Indonesia 1
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-
-#EXTINF:-1,Bloomberg Television
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-
-#EXTINF:-1,BERITASATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
-#EXTINF:-1,BERITASATUWORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-
-#EXTINF:-1,BERITASATUENGLISH
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-
-#EXTINF:-1,Bloomberg TV Australia
-https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-
-#EXTINF:-1,Prima Tv Banjarmasin
-http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
-
-#EXTINF:-1,BERITA SATU WORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
-
-#EXTINF:-1,TVRI MALUKU
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
-
-#EXTINF:-1,TVRI NTT KUPANG
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/Stream(03)/index.m3u8
-
-#EXTINF:-1,TVRI NTB MATARAM
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/Stream(03)/index.m3u8
-
-#EXTINF:-1,TVRI SPORTS
-http://eroz84.wap.sh/local/tvri_sport.m3u8
-
-#EXTINF:-1,TVRI 3 Budaya
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
-
-#EXTINF:-1,TVRI Nasional
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-
-#EXTINF:-1,TVRI Yogyakarta
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-
-#EXTINF:-1,TVRI Bandung
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(02)/index.m3u8
-
-#EXTINF:-1,TVRI Aceh
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
-
-#EXTINF:-1,TVRI Bali
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
-
-#EXTINF:-1,TVRI Bengkulu
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
-
-#EXTINF:-1,TVRI Jambi
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
-
-#EXTINF:-1,TVRI Jawa Barat
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
-
-#EXTINF:-1,TVRI Jawa Tengah
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
-
-#EXTINF:-1,TVRI Jawa Timur
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
-
-#EXTINF:-1,TVRI Kalbar
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(02)/index.m3u8
-
-#EXTINF:-1,TVRI Kalsel
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
-
-#EXTINF:-1,TVRI Kaltim
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
-
-#EXTINF:-1,TVRI Kalteng
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
-
-#EXTINF:-1,TVRI Lampung
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
-
-#EXTINF:-1,TVRI Papua
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
-
-#EXTINF:-1,TVRI Riau
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
-
-#EXTINF:-1,TVRI Sulsel Makasar
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
-
-#EXTINF:-1,TVRI Sulteng Palu
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
-
-#EXTINF:-1,TVRI Sulut Manado
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
-
-#EXTINF:-1,TVRI Sumatra Selatan
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
-
-#EXTINF:-1,Spacetoon
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 
 #EXTINF:-1,DISNEY CHANNEL RUSIA
 http://188.40.68.167/russia/disney/playlist.m3u8
