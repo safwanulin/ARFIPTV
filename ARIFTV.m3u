@@ -188,9 +188,6 @@ http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
 #EXTINF: -1 group-title="TV ONLINE",ANTV SD_BACKUP
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF: -1 group-title="TV ONLINE",NET TV SD
-http://210.210.155.35/session/ca684bb4-4f71 -11ec-a3d7-b3009c1b6397/qwr9ew/s/s08/01.m3u8
-
 #EXTINF: -1 group-title="TV ONLINE",KOMPAS TV SD (USEETV)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3268ef7e5a44f541a7cbde7626ef57566
 
@@ -212,9 +209,6 @@ http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 #EXTINF: -1 group-title="TV ONLINE",CNN Indonesia 1
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF: -1 group-title="TV ONLINE",Bloomberg Television
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia -1/Source-USTV -1000 -1_live.m3u8
-
 #EXTINF: -1 group-title="TV ONLINE",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
@@ -223,9 +217,6 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 #EXTINF: -1 group-title="TV ONLINE",BERITASATUENGLISH
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-
-#EXTINF: -1 group-title="TV ONLINE",Bloomberg TV Australia
-https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo -1/Source-OZTVqvs -1000 -1_live.m3u8
 
 #EXTINF: -1 group-title="TV ONLINE",BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
