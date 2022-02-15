@@ -17,8 +17,14 @@ http://nonton.wap.sh/id/002.m3u8
 #EXTINF:-1,RCTI
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 
+#EXTINF:-1,RCTI2
+https://arftv-server.pupapi.my.id/RCTI
+
 #EXTINF:-1,GTV
 https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
+
+#EXTINF:-1,GTV2
+https://arftv-server.pupapi.my.id/gtv
 
 #EXTINF:-1,MNC
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
@@ -35,5 +41,11 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_
 #EXTINF:-1,CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
-#EXTINF:-1,BIENSPORT 1
-http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
+#EXTINF:-1,BIENSPORT 1 PREMIUM
+https://arftv-server.pupapi.my.id/BIENS
+
+#EXTINF:-1,BIENSPORT 2 PREMIUM
+https://arftv-server.pupapi.my.id/BIENS2
+
+#EXTINF:-1,BIENSPORT 3 PREMIUM
+https://arftv-server.pupapi.my.id/BIENS3
