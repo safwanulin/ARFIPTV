@@ -335,3 +335,51 @@ http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
 
 #EXTINF: -1 group-title="TV ONLINE",DUNIA GAMES TV SD
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+
+#EXTINF:-1 group-title="TV ONLINE",GTV
+https://arftv-server.pupapi.my.id/gtv
+
+#EXTINF:-1 group-title="TV ONLINE",RCTI
+https://arftv-server.pupapi.my.id/RCTI
+
+#EXTINF:-1 group-title="TV ONLINE SPORT",BIENSPORT 1 PREMIUM
+https://arftv-server.pupapi.my.id/BIENS
+
+#EXTINF:-1 group-title="TV ONLINE SPORT",BIENSPORT 2 PREMIUM
+https://arftv-server.pupapi.my.id/BIENS2
+
+#EXTINF:-1 group-title="TV ONLINE SPORT",BIENSPORT 3 PREMIUM
+https://arftv-server.pupapi.my.id/BIENS3
+
+#EXTINF:-1 group-title="TV ONLINE IND",ANTV
+https://arftv-server.pupapi.my.id/ANTV
+
+#EXTINF:-1 group-title="TV ONLINE IND",SCTV
+https://arftv-server.pupapi.my.id/SCTV
+
+#EXTINF:-1 group-title="TV ONLINE IND",INDOSIAR
+https://arftv-server.pupapi.my.id/INDOS
+
+#EXTINF:-1 group-title="TV ONLINE IND",MNC TV
+https://arftv-server.pupapi.my.id/MNC
+
+#EXTINF:-1 group-title="TV ONLINE IND",TRANS 7
+https://arftv-server.pupapi.my.id/TRANS7
+
+#EXTINF:-1 group-title="TV ONLINE IND",TRANS TV
+https://arftv-server.pupapi.my.id/TRANSTV
+
+#EXTINF:-1 group-title="TASAWUF",SYARAAH HIKAM 001 (AMAL2 SYARI'AT, THARIQAT, HAKEKAT, HIKMAH 1)
+https://arftv-server.pupapi.my.id/1
+
+#EXTINF:-1 group-title="TASAWUF",SYARAAH HIKAM 002 (TTG BERUSAHA, NIAT2 DLM BERUSAHA, HIKMAH 2)
+https://arftv-server.pupapi.my.id/2
+
+#EXTINF:-1 group-title="TASAWUF",SYARAAH HIKAM 003 (ASBAB USAHA RIZKI, TAKDIR ALLAH, IMAN, BUAH BERIMAN DGN TAKDIR, HIKMAH 3)
+https://arftv-server.pupapi.my.id/3
+
+#EXTINF:-1 group-title="TASAWUF",SYARAAH HIKAM 004 (TADBIR, MERANCANG, RANCANGAN TERPUJI & TERCELA, HIKMAH 4)
+https://arftv-server.pupapi.my.id/4
+
+#EXTINF:-1 group-title="TASAWUF",SYARAAH HIKAM 005 (HAL2 YG DIJAMIN ALLAH, RIZKI, CARA YG BAIK MENCARI RIZKI, HIKMAH 5)
+https://arftv-server.pupapi.my.id/5
