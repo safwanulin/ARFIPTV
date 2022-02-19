@@ -192,6 +192,11 @@ https://arftv.pupapi.my.id/channel/premium/tennis/PlkIKYRCxcEt
 #EXTINF:-1 group-title="SPORT",BEINS 1 TITIPAN EDY
 http://c2.kkewei.club:8880/rose2021/HgmtdHzhwF/2120
 
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:33709668
+#EXTINF:6, no desc
+#EXT-X-PROGRAM-DATE-TIME:2022-02-19T14:32:10Z
 #EXTINF:-1 group-title="SPORT",BEINS 1
 https://arftv.pupapi.my.id/playlist/premium/edi/CwLuzJZLhNMY/titip.m3u8 
 
