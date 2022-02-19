@@ -136,6 +136,15 @@ https://arftv.pupapi.my.id/channel/premium/arftv:astroprima/ijISANQVIQM9
 
 #================================================================================================music asing
 
+#EXTINF:-1 group-title="MUSIC ASING",EX-YU: PINK MUSIC
+https://arftv.pupapi.my.id/channel/premium/ex-yu:pinkmusic/YgGInlhkT2fZ
+
+#EXTINF:-1 group-title="MUSIC ASING",EX-YU: PINK MUSIC 2
+https://arftv.pupapi.my.id/channel/premium/ex-yu:pinkmusic2/YgGInlhkT2fZ
+
+#EXTINF:-1 group-title="MUSIC ASING",AR: ROTANA MUSIC
+https://arftv.pupapi.my.id/channel/premium/ar:rotanamusic/YgGInlhkT2fZ
+
 #EXTINF:-1 group-title="MUSIC ASING",AFRICA : MTV MUSIC 24
 https://arftv.pupapi.my.id/channel/premium/africa:mtvmusic24/YgGInlhkT2fZ
 
@@ -328,9 +337,6 @@ https://arftv.pupapi.my.id/channel/premium/radio:bbcradio6music/YgGInlhkT2fZ
 #EXTINF:-1 group-title="MUSIC ASING",RADIO: 011FM MOTOWN MUSIC
 https://arftv.pupapi.my.id/channel/premium/radio:011fmmotownmusic/YgGInlhkT2fZ
 
-#EXTINF:-1 group-title="MUSIC ASING",AR: ROTANA MUSIC
-https://arftv.pupapi.my.id/channel/premium/ar:rotanamusic/YgGInlhkT2fZ
-
 #EXTINF:-1 group-title="MUSIC ASING",AR: SUDAN MUSIC
 https://arftv.pupapi.my.id/channel/premium/ar:sudanmusic/YgGInlhkT2fZ
 
@@ -360,12 +366,6 @@ https://arftv.pupapi.my.id/channel/premium/ex-yu:hayatmusic/YgGInlhkT2fZ
 
 #EXTINF:-1 group-title="MUSIC ASING",EX-YU: BN MUSIC
 https://arftv.pupapi.my.id/channel/premium/ex-yu:bnmusic/YgGInlhkT2fZ
-
-#EXTINF:-1 group-title="MUSIC ASING",EX-YU: PINK MUSIC
-https://arftv.pupapi.my.id/channel/premium/ex-yu:pinkmusic/YgGInlhkT2fZ
-
-#EXTINF:-1 group-title="MUSIC ASING",EX-YU: PINK MUSIC 2
-https://arftv.pupapi.my.id/channel/premium/ex-yu:pinkmusic2/YgGInlhkT2fZ
 
 #EXTINF:-1 group-title="MUSIC ASING",AF: AFRO MUSIC CHANNEL
 https://arftv.pupapi.my.id/channel/premium/af:afromusicchannel/YgGInlhkT2fZ
