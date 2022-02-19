@@ -180,7 +180,7 @@ https://arftv.pupapi.my.id/channel/premium/cmm/PlkIKYRCxcEt
 #EXTINF:-1 group-title="MOVIES",hallmark2
 https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
 
-#EXTM3U
+
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="CC",LANGUAGE="eng",NAME="English",INSTREAM-ID="CC1"
