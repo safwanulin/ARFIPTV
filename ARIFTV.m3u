@@ -189,24 +189,15 @@ https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
 #EXTINF:-1 group-title="SPORT",TENNIS CHANNEL
 https://arftv.pupapi.my.id/channel/premium/tennis/PlkIKYRCxcEt
 
+#EXT-X-VERSION:3
+#EXT-X-SERVER:@KHOERUL_TELEVISION
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=400000,NAME=720p,RESOLUTION=1280x720,PROGRAM-SERVER=@KHOERUL_TELEVISION
 #EXTINF:-1 group-title="SPORT",BEINS 1 TITIPAN EDY
 http://c2.kkewei.club:8880/rose2021/HgmtdHzhwF/2120
 
-#EXTINF:-1 group-title="SPORT",BEINS 1 1920X1080px tes
+#EXTINF:-1 group-title="SPORT",BEINS 1 1280X720px tes
 https://arftv.pupapi.my.id/channel/premium/edi/CwLuzJZLhNMY
 
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:33709668
-#EXT-X-PROGRAM-DATE-TIME:2022-02-19T14:32:10Z
-#EXTINF:-1 group-title="SPORT",BEINS 1 1280X720px
-https://arftv.pupapi.my.id/channel/premium/edi/CwLuzJZLhNMY
-
-#EXT-X-VERSION:3
-#EXT-X-SERVER:@KHOERUL_TELEVISION
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=400000,NAME=720p,RESOLUTION=640x480,PROGRAM-SERVER=@KHOERUL_TELEVISION
-#EXTINF:-1 group-title="SPORT",BIEN 1 640X480
-https://arftv.pupapi.my.id/channel/premium/edi/CwLuzJZLhNMY
 
 #astrO MALAY======================================================================================ASTRO
 
