@@ -186,20 +186,20 @@ https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="CC",LANGUAGE="eng",NAME="English",INSTREAM-ID="CC1"
 #EXT-X-STREAM-INF:BANDWIDTH=2103200,AVERAGE-BANDWIDTH=2305600,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=720x576,FRAME-RATE=30.000,CLOSED-CAPTIONS="CC"
 #EXTINF:-1 group-title="MOVIES",hallmark1
-https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
+https://arftv.pupapi.my.id/channel/premium/hallmark/PlEvuWPl6WzC
 
 #===================================================================================================test multi resulosi
 #EXTINF:-1 group-title="MOVIES",hallmark3
 #EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
+https://arftv.pupapi.my.id/channel/premium/hallmark/PlEvuWPl6WzC
 #EXT-X-STREAM-INF:BANDWIDTH=240000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
+https://arftv.pupapi.my.id/channel/premium/hallmark/PlEvuWPl6WzC
 #EXT-X-STREAM-INF:BANDWIDTH=440000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
+https://arftv.pupapi.my.id/channel/premium/hallmark/PlEvuWPl6WzC
 #EXT-X-STREAM-INF:BANDWIDTH=640000,RESOLUTION=640x360,CODECS="avc1.42e00a,mp4a.40.2"
-https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
+https://arftv.pupapi.my.id/channel/premium/hallmark/PlEvuWPl6WzC
 #EXT-X-STREAM-INF:BANDWIDTH=64000,CODECS="mp4a.40.5"
-https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
+https://arftv.pupapi.my.id/channel/premium/hallmark/PlEvuWPl6WzC
 
 #==================================================================================================sport
 
