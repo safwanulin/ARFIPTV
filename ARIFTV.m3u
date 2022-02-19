@@ -200,6 +200,13 @@ http://c2.kkewei.club:8880/rose2021/HgmtdHzhwF/2120
 #EXTINF:-1 group-title="SPORT",BEINS 1
 https://arftv.pupapi.my.id/playlist/premium/edi/CwLuzJZLhNMY/titip.m3u8 
 
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:33709821
+#EXTINF:6, no desc
+#EXTINF:-1 group-title="LOKAL",BIEN 1 640X480
+https://arftv.pupapi.my.id/channel/premium/edi/CwLuzJZLhNMY
+
 #astrO MALAY======================================================================================ASTRO
 
 #EXTINF:-1 group-title="ASTRO",astro trial sampai 23.00 19-2-2022 
