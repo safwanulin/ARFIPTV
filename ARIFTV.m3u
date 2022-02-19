@@ -189,9 +189,12 @@ https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
 #EXTINF:-1 group-title="SPORT",TENNIS CHANNEL
 https://arftv.pupapi.my.id/channel/premium/tennis/PlkIKYRCxcEt
 
+#EXTINF:-1 group-title="SPORT",BEINS 1 TITIPAN EDY
+http://c2.kkewei.club:8880/rose2021/HgmtdHzhwF/2120
+
 #EXT-X-VERSION:3
-#EXT-X-SERVER:@KHOERUL_TELEVISION
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=400000,NAME=720p,RESOLUTION=1280x720,PROGRAM-SERVER=@KHOERUL_TELEVISION
+#EXT-X-SERVER:arftv.pupapi.my.id
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=400000,NAME=720p,RESOLUTION=1280x720,arftv.pupapi.my.id
 #EXTINF:-1 group-title="SPORT",BEINS 1 TITIPAN EDY
 http://c2.kkewei.club:8880/rose2021/HgmtdHzhwF/2120
 
