@@ -176,6 +176,11 @@ https://arftv.pupapi.my.id/channel/premium/hbohd/PlkIKYRCxcEt
 #EXTINF:-1 group-title="MOVIES",ID:CELESTIAL MOVIES
 https://arftv.pupapi.my.id/channel/premium/cmm/PlkIKYRCxcEt
 
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:33709668
+#EXTINF:6, no desc
+#EXT-X-PROGRAM-DATE-TIME:2022-02-19T14:32:10Z
 #EXTINF:-1 group-title="MOVIES",INT:USA: HALLMARK MOVIES & MYSTERIES
 https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
 
