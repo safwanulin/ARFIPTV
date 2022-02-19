@@ -189,7 +189,7 @@ https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
 https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
 
 #===================================================================================================test multi resulosi
-#EXTINF:-1 group-title="MOVIES",hallmark1
+#EXTINF:-1 group-title="MOVIES",hallmark3
 #EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
 https://arftv.pupapi.my.id/channel/premium/hallmark/PlkIKYRCxcEt
 #EXT-X-STREAM-INF:BANDWIDTH=240000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
