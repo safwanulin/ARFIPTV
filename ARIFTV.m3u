@@ -203,8 +203,8 @@ https://arftv.pupapi.my.id/channel/premium/edi/CwLuzJZLhNMY
 https://arftv.pupapi.my.id/channel/premium/edi/CwLuzJZLhNMY
 
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:33709821
+#EXT-X-SERVER:@KHOERUL_TELEVISION
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=400000,NAME=720p,RESOLUTION=640x480,PROGRAM-SERVER=@KHOERUL_TELEVISION
 #EXTINF:-1 group-title="SPORT",BIEN 1 640X480
 https://arftv.pupapi.my.id/channel/premium/edi/CwLuzJZLhNMY
 
