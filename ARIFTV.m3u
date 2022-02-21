@@ -1,198 +1,504 @@
 #EXTM3U
-#EXTINF:-1 group-title="ADMIN INFO",ADMIN INFO
-https://arftv.pupapi.my.id/channel/premium/akuntrial/8INd2lE57SkM/info
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="Admin Info",Welcome Akun Trial
+https://arftv-server.pupapi.my.id/arftv/welcome-akun-trial.mp4
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="Info",Info
-http://arftv-server.pupapi.my.id/expired2.mp4
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TRANSTV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/transtv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",ADI TV Yogyakarta
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/aditvyogyakarta
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TRANS7
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/trans7
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",Ajwa tv
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/ajwatv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",ANTV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/antv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",ANTV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/antv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",RCTI
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/rcti
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",BADAR TV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/badartv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",MNCTV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/mnctv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",BALI TV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/balitv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",GTV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/gtv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",Bandung TV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/bandungtv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",INEWS
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/inews
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",BERITASATU
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/beritasatu
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",INDOSIAR
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/indosiar
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",BERITASATUENGLISH
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/beritasatuenglish
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVONE
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvone
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",BERITASATUWORLD
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/beritasatuworld
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",METROTV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/metrotv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",Bioskop Indonesia
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/bioskopindonesia
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",Net TV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/nettv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",CNN Indonesia 1
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/cnnindonesia1
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",RTV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/rtv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",Daitv
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/daitv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",KOMPASTV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/kompastv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",DESA TV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/desatv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvri
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",Digdaya TV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/digdayatv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",Mytv
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/mytv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",GTV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/gtv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",O channel
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ochannel
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",INDOSIAR
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/indosiar
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",Inspira TV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/inspiratv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",INEWS
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/inews
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",BERITASATU
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/beritasatu
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",Inspira TV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/inspiratv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",BERITASATUWORLD
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/beritasatuworld
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",Jaktv
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/jaktv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",BERITASATUENGLISH
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/beritasatuenglish
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",JITV Jogjakarta
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/jitvjogjakarta
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",Jaktv
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/jaktv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",JITV Yogyakarta
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/jitvyogyakarta
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",Ajwa tv
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ajwatv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",KOMPASTV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/kompastv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",CNN Indonesia 1
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/cnnindonesia1
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",METROTV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/metrotv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVKU
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvku
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",MNCTV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/mnctv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",Daitv
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/daitv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",Mytv
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/mytv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",RODJATV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/rodjatv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",Net TV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/nettv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",Nusantara TV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/nusantaratv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",Nusantara TV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/nusantaratv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",Digdaya TV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/digdayatv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",O channel
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/ochannel
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",SAKTI TV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/saktitv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",RCTI
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/rcti
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",JITV Jogjakarta
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/jitvjogjakarta
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",RODJATV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/rodjatv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",RRI Net
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/rrinet
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",RRI Net
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/rrinet
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",DESA TV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/desatv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",RTV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/rtv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",BALI TV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/balitv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",SAKTI TV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/saktitv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",BADAR TV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/badartv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TRANS7
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/trans7
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",Bioskop Indonesia
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/bioskopindonesia
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TRANSTV
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/transtv
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",JITV Yogyakarta
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/jitvyogyakarta
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVKU
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvku
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",ADI TV Yogyakarta
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/aditvyogyakarta
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVONE
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvone
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",Bandung TV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/bandungtv
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvri
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI MALUKU
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrimaluku
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI 3 Budaya
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvri3budaya
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI NTT KUPANG
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrinttkupang
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Aceh
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvriaceh
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI NTB MATARAM
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrintbmataram
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Bali
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvribali
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI SPORTS
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrisports
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Bandung
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvribandung
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI 3 Budaya
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvri3budaya
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Bengkulu
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvribengkulu
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Nasional
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrinasional
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Jambi
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrijambi
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Yogyakarta
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvriyogyakarta
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Jawa Barat
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrijawabarat
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Bandung
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvribandung
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Jawa Tengah
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrijawatengah
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Aceh
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvriaceh
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Jawa Timur
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrijawatimur
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Bali
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvribali
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Kalbar
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrikalbar
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Bengkulu
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvribengkulu
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Kalsel
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrikalsel
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Jambi
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrijambi
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Kalteng
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrikalteng
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Jawa Barat
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrijawabarat
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Kaltim
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrikaltim
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Jawa Tengah
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrijawatengah
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Lampung
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrilampung
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Jawa Timur
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrijawatimur
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI MALUKU
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrimaluku
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Kalbar
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrikalbar
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Nasional
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrinasional
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Kalsel
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrikalsel
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI NTB MATARAM
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrintbmataram
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Kaltim
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrikaltim
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI NTT KUPANG
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrinttkupang
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Kalteng
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrikalteng
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Papua
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvripapua
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Lampung
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrilampung
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Riau
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvririau
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Papua
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvripapua
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI SPORTS
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrisports
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Riau
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvririau
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Sulsel Makasar
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrisulselmakasar
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Sulsel Makasar
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrisulselmakasar
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Sulteng Palu
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrisultengpalu
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Sulteng Palu
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrisultengpalu
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Sulut Manado
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrisulutmanado
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Sulut Manado
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrisulutmanado
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Sumatra Selatan
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvrisumatraselatan
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="TV LOKAL",TVRI Sumatra Selatan
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/tvrisumatraselatan
 
-#EXTINF:-1 tvg-logo="channel-default-logo.jpg" group-title="TV LOKAL",TVRI Yogyakarta
-https://arftv.pupapi.my.id/channel/premium/akuntrial/uVrYiikrKcsu/tvriyogyakarta3.m3u8
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",EX-YU: Pink Music
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ex-yu:pinkmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",EX-YU: Pink Music 2
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ex-yu:pinkmusic2
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",SA : ROTANA MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/sa:rotanamusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",AR: ROTANA MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ar:rotanamusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",|SA| ROTANA MUSIC HD
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/|sa|rotanamusichd
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",AFRICA : MTV MUSIC 24
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/africa:mtvmusic24
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",AL : BBF MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/al:bbfmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",AL : MY MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/al:mymusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",CA : MUCH
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ca:much
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",CA : MUCH MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ca:muchmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",DUTCH: MTV MUSIC 24
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/dutch:mtvmusic24
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",DUTCH: NICK MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/dutch:nickmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",FR : M6 MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/fr:m6music
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",ID : MUSIC TOP
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/id:musictop
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",IN : B4U MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/in:b4umusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",LOCALNOW: LOCAL NOW MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/localnow:localnowmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : 30A MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:30amusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : CALIFORNIA MUSIC CHANNEL
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:californiamusicchannel
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : CALIFORNIA MUSIC CHANNEL COUNTRY
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:californiamusicchannelcountry
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : DITTY TV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:dittytv
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : KERRANG
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:kerrang
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MTV CLASSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:mtvclassic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MTV DANCE
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:mtvdance
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MTV LIVE
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:mtvlive
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE 90S
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoice90s
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE ALTERNATIVE
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicealternative
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE BRIT HITS
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicebrithits
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE DANCE AND EDM
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicedanceandedm
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE HIP-HOP AND R&B
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicehip-hopandr&b
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE HIT LIST
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicehitlist
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE INDIE
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoiceindie
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE KIDS ONLY
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicekidsonly
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE METAL
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicemetal
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE MEXICANA
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicemexicana
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE MUSICA URBANA
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicemusicaurbana
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE POP AND COUNTRY
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicepopandcountry
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE POP HITS
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicepophits
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE R&B SOUL
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicer&bsoul
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE RAP
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicerap
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE RAP 2K
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicerap2k
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE ROCK
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicerock
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE TEEN BEATS
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoiceteenbeats
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE THROWBACK JAMZ
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicethrowbackjamz
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE TODAYS COUNTRY
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicetodayscountry
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE TODDLER TUNES
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicetoddlertunes
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE TROPICALES
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicetropicales
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : MUSIC CHOICE Y2K
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:musicchoicey2k
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : SPIRIT TV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:spirittv
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : STINGRAY CLASSIC ROCK
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:stingrayclassicrock
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : STINGRAY EVERYTHING 80S
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:stingrayeverything80s
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : STINGRAY FLASHBACK 70S
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:stingrayflashback70s
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : STINGRAY GREATEST HITS
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:stingraygreatesthits
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : STINGRAY HIT LIST
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:stingrayhitlist
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : STINGRAY HOT COUNTRY
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:stingrayhotcountry
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : STINGRAY POP ADULT
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:stingraypopadult
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : STINGRAY ROCK ALTERNATIVE
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:stingrayrockalternative
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : STINGRAY SOUL STORM
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:stingraysoulstorm
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : STINGRAY TODAYS LATIN POP
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:stingraytodayslatinpop
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MUSIC : STINGRAY URBAN BEAT
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/music:stingrayurbanbeat
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",PL : DISCO POLO MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/pl:discopolomusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",PT : AFRO MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/pt:afromusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",REDBOXTV: MUSIC BAEBLE
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/redboxtv:musicbaeble
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",US : FM FUSE MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/us:fmfusemusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",US-720 : FM FUSE MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/us-720:fmfusemusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",WATCHYOURTV: TVS MUSIC NETWORK
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/watchyourtv:tvsmusicnetwork
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",RADIO: DASH THE NEWEST MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/radio:dashthenewestmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",RADIO: BBC RADIO 6 MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/radio:bbcradio6music
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",RADIO: 011FM MOTOWN MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/radio:011fmmotownmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",AR: Sudan Music
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ar:sudanmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",FR_M6_Music
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/fr_m6_music
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",FR_MTV_MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/fr_mtv_music
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",DE: Deluxe Music HD
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/de:deluxemusichd
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",PK: ARY MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/pk:arymusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",IN: MH1 Music
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/in:mh1music
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",RO: 1 Music Channel
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ro:1musicchannel
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",RO: Music Channel.Hu
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ro:musicchannel.hu
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",EX-YU: HAYAT MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ex-yu:hayatmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",EX-YU: BN Music
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ex-yu:bnmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",AF: AFRO MUSIC CHANNEL
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/af:afromusicchannel
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",PL: VOX MUSIC TV
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/pl:voxmusictv
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",IR: Persian Music
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ir:persianmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",BG: Balkanika Music HD
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/bg:balkanikamusichd
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",HU: Music Channel
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/hu:musicchannel
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",BAN: Dhoom Music HD
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ban:dhoommusichd
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",BAN: Music HD
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/ban:musichd
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",FR_M6_MUSIC_H265
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/fr_m6_music_h265
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MT: SMASH MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/mt:smashmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",IN: 9X MUSIC
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/in:9xmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",IN: AOne Music PUNJABI
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/in:aonemusicpunjabi
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",IN: B4U MUSIC 89p9yjG6
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/in:b4umusic89p9yjg6
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",IN: MUSIC INDIA
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/in:musicindia
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",Majestic Music
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/majesticmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",MY: Sun Music
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/my:sunmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",OSN_Music_Now_HD
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/osn_music_now_hd
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",NL:NICK MUSIC H265
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/nl:nickmusich265
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",NL:MTV MUSIC24 H265
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/nl:mtvmusic24h265
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",ZA: Mzansi Magic Music
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/za:mzansimagicmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",|OSN| Music Now
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/|osn|musicnow
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",|NL| Nick Music
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/|nl|nickmusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",|NL| MTV Music 24
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/|nl|mtvmusic24
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",Bill & Ted Face the Music
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/bill&tedfacethemusic
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",123.Music.And.Lyrics.2007
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/123.music.and.lyrics.2007
+
+#EXTINF:-1 tvg-logo="https://arftv-server.pupapi.my.id/arftv/channel-default-logo.jpg" group-title="MUSIC ASING",153.The.Music.Box.2018
+https://arftv.pupapi.my.id/channel/premium/akuntrial/1sqhUC1OtRKo/153.the.music.box.2018
