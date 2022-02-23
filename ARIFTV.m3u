@@ -1,210 +1,1722 @@
 #EXTM3U
-#EXTINF:-1 group-title="music2322022",SA : ROTANA MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/100257
+#EXTINF:-1,GTV
+https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 
-#EXTINF:-1 group-title="music2322022",|SA| ROTANA MUSIC HD
-http://red.ipfox.org:8080/1234/12345678/33223
+#EXTINF:-1,RCTI
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 
-#EXTINF:-1 group-title="music2322022",AL : BBF MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/93120
+#EXTINF:-1,MNCTV
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 
-#EXTINF:-1 group-title="music2322022",AL : MY MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/93165
+#EXTINF:-1,INEWS
+https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 
-#EXTINF:-1 group-title="music2322022",CA : MUCH
-http://mains.services:2086/dorec14/Chuckman5525$/93973
+#EXTINF:-1,SCTV
+http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
 
-#EXTINF:-1 group-title="music2322022",CA : MUCH MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/13228
+#EXTINF:-1,Indosiar
+http://group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
 
-#EXTINF:-1 group-title="music2322022",DUTCH: MTV MUSIC 24
-http://mains.services:2086/dorec14/Chuckman5525$/92945
+#EXTINF:-1,ANTV
+http://group2-swiftservesd-1.dens.tv/s/s07/01.m3u8
 
-#EXTINF:-1 group-title="music2322022",DUTCH: NICK MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/92944
+#EXTINF:-1,tvOne
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 
-#EXTINF:-1 group-title="music2322022",FR : M6 MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/92272
+#EXTINF:-1,Trans7
+https://cubmu.superzap.xyz:8279/trans7/playlist.m3u8
 
-#EXTINF:-1 group-title="music2322022",ID : MUSIC TOP
-http://mains.services:2086/dorec14/Chuckman5525$/100300
+#EXTINF:-1,Trans TV
+https://cubmu.superzap.xyz:8279/transtv/playlist.m3u8
 
-#EXTINF:-1 group-title="music2322022",IN : B4U MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/95074
+#EXTINF:-1,CNN Indonesia
+https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
 
-#EXTINF:-1 group-title="music2322022",LOCALNOW: LOCAL NOW MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/101849
+#EXTINF:-1,CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : 30A MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/52924
+#EXTINF:-1,RTV
+https://m3u-editor.com/serve/m58s8d4zmb/500149295.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : CALIFORNIA MUSIC CHANNEL
-http://mains.services:2086/dorec14/Chuckman5525$/16815
+#EXTINF:-1,Net TV
+http://group2-swiftservesd-1.dens.tv/s/s08/01.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : CALIFORNIA MUSIC CHANNEL COUNTRY
-http://mains.services:2086/dorec14/Chuckman5525$/98959
+#EXTINF:-1,Kompas TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : DITTY TV
-http://mains.services:2086/dorec14/Chuckman5525$/99298
+#EXTINF:-1,Berita Satu News
+https://dl.dropbox.com/s/echuwg82ufszf2l/270f72deeb5843f.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : KERRANG
-http://mains.services:2086/dorec14/Chuckman5525$/22403
+#EXTINF:-1,BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MTV CLASSIC
-http://mains.services:2086/dorec14/Chuckman5525$/22400
+#EXTINF:-1,BERITASATUENGLISH
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MTV DANCE
-http://mains.services:2086/dorec14/Chuckman5525$/22399
+#EXTINF:-1,TVRI
+https://dl.dropbox.com/s/l5j2hh2e45y650w/3f58825fe229a8f.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MTV LIVE
-http://mains.services:2086/dorec14/Chuckman5525$/22397
+#EXTINF:-1,TVRI SPORT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE 90S
-http://mains.services:2086/dorec14/Chuckman5525$/98596
+#EXTINF:-1,TVRI WORLD
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE ALTERNATIVE
-http://mains.services:2086/dorec14/Chuckman5525$/98597
+#EXTINF:-1,TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE BRIT HITS
-http://mains.services:2086/dorec14/Chuckman5525$/98598
+#EXTINF:-1,MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE DANCE AND EDM
-http://mains.services:2086/dorec14/Chuckman5525$/98599
+#EXTINF:-1,MYTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be6a41c2a2a7270517f5ce8dd2f48fc68d
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE HIP-HOP AND R&B
-http://mains.services:2086/dorec14/Chuckman5525$/98600
+#EXTINF:-1,Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w253650234_b2692000_sleng.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE HIT LIST
-http://mains.services:2086/dorec14/Chuckman5525$/98601
+#EXTINF:-1,Nusantara TV
+https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE INDIE
-http://mains.services:2086/dorec14/Chuckman5525$/98602
+#EXTINF:-1,JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE KIDS ONLY
-http://mains.services:2086/dorec14/Chuckman5525$/98603
+#EXTINF:-1,DAAI TV
+http://rr2.dens.tv/s/s13/01.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE METAL
-http://mains.services:2086/dorec14/Chuckman5525$/98708
+#EXTINF:-1,Elshinta TV
+http://rrelshinta.dens.tv/s/s10/index2.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE MEXICANA
-http://mains.services:2086/dorec14/Chuckman5525$/98604
+#EXTINF:-1,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE MUSICA URBANA
-http://mains.services:2086/dorec14/Chuckman5525$/98709
+#EXTINF:-1,Digdaya TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE POP AND COUNTRY
-http://mains.services:2086/dorec14/Chuckman5525$/98605
+#EXTINF:-1,DESA TV
+http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE POP HITS
-http://mains.services:2086/dorec14/Chuckman5525$/98606
+#EXTINF:-1,BALI TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE R&B SOUL
-http://mains.services:2086/dorec14/Chuckman5525$/98607
+#EXTINF:-1,ADi TV
+https://v2.siar.us/aditv/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE RAP
-http://mains.services:2086/dorec14/Chuckman5525$/98608
+#EXTINF:-1,Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE RAP 2K
-http://mains.services:2086/dorec14/Chuckman5525$/98609
+#EXTINF:-1,Usee Photo
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE ROCK
-http://mains.services:2086/dorec14/Chuckman5525$/98610
+#EXTINF:-1,Ruang Trampil
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE TEEN BEATS
-http://mains.services:2086/dorec14/Chuckman5525$/98611
+#EXTINF:-1,RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE THROWBACK JAMZ
-http://mains.services:2086/dorec14/Chuckman5525$/98612
+#EXTINF:-1,Tawaf TV
+http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE TODAYS COUNTRY
-http://mains.services:2086/dorec14/Chuckman5525$/98613
+#EXTINF:-1,TV Mu
+http://stream1.ninmedia.tv:1935/tvmu/udp.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE TODDLER TUNES
-http://mains.services:2086/dorec14/Chuckman5525$/98614
+#EXTINF:-1,NU Channel
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE TROPICALES
-http://mains.services:2086/dorec14/Chuckman5525$/98615
+#EXTINF:-1,Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?
 
-#EXTINF:-1 group-title="music2322022",MUSIC : MUSIC CHOICE Y2K
-http://mains.services:2086/dorec14/Chuckman5525$/98710
+#EXTINF:-1,Maleo Channel
+http://stream1.ninmedia.tv:1935/maleo/udp.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : SPIRIT TV
-http://mains.services:2086/dorec14/Chuckman5525$/99458
+#EXTINF:-1,POP Musik
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : STINGRAY CLASSIC ROCK
-http://mains.services:2086/dorec14/Chuckman5525$/93607
+#EXTINF:-1,MUSIC TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 group-title="music2322022",MUSIC : STINGRAY EVERYTHING 80S
-http://mains.services:2086/dorec14/Chuckman5525$/98823
+#EXTINF:-1,Rock TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : STINGRAY FLASHBACK 70S
-http://mains.services:2086/dorec14/Chuckman5525$/93588
+#EXTINF:-1,Citra Dangdut
+http://139.99.71.104:8888/live/blink11/MAw7MrtYno/2207.ts
 
-#EXTINF:-1 group-title="music2322022",MUSIC : STINGRAY GREATEST HITS
-http://mains.services:2086/dorec14/Chuckman5525$/98820
+#EXTINF:-1,I-Konser
+http://139.99.71.104:8888/live/blink12/CGRHdtZwTL/29594.ts
 
-#EXTINF:-1 group-title="music2322022",MUSIC : STINGRAY HIT LIST
-http://mains.services:2086/dorec14/Chuckman5525$/98821
+#EXTINF:-1,Prambors
+http://139.99.71.104:8888/live/blink15/BgqECab8rY/1157.ts
 
-#EXTINF:-1 group-title="music2322022",MUSIC : STINGRAY HOT COUNTRY
-http://mains.services:2086/dorec14/Chuckman5525$/98822
+#EXTINF:-1,BADAR TV
+https://e1.siar.us/badartv/live/chunks.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : STINGRAY POP ADULT
-http://mains.services:2086/dorec14/Chuckman5525$/93591
+#EXTINF:-1,Al Quran Al Kareem TV
+http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : STINGRAY ROCK ALTERNATIVE
-http://mains.services:2086/dorec14/Chuckman5525$/93574
+#EXTINF:-1,RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : STINGRAY SOUL STORM
-http://mains.services:2086/dorec14/Chuckman5525$/98825
+#EXTINF:-1,MGI TV
+https://tv.rodja.live/tasik/mgitv/index.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : STINGRAY TODAYS LATIN POP
-http://mains.services:2086/dorec14/Chuckman5525$/98824
+#EXTINF:-1,MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
-#EXTINF:-1 group-title="music2322022",MUSIC : STINGRAY URBAN BEAT
-http://mains.services:2086/dorec14/Chuckman5525$/93567
+#EXTINF:-1,British Muslim
+http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 
-#EXTINF:-1 group-title="music2322022",PL : DISCO POLO MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/92739
+#EXTINF:-1,Animax
+http://139.99.71.104:8888/live/blink14/rblH3Zt5it/3.ts
 
-#EXTINF:-1 group-title="music2322022",PT : AFRO MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/92104
+#EXTINF:-1,Spacetoon ID
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 
-#EXTINF:-1 group-title="music2322022",REDBOXTV: MUSIC BAEBLE
-http://mains.services:2086/dorec14/Chuckman5525$/102834
+#EXTINF:-1,MKIDZ
+http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
 
-#EXTINF:-1 group-title="music2322022",US : FM FUSE MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/63650
+#EXTINF:-1,Boomerang
+http://139.99.71.104:8888/live/blink10/PeE6XspguM/37453.ts
 
-#EXTINF:-1 group-title="music2322022",US-720 : FM FUSE MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/95417
+#EXTINF:-1,Cartoon Network
+https://m3u-editor.com/serve/ooxsgahyng/427774669.m3u8
 
-#EXTINF:-1 group-title="music2322022",WATCHYOURTV: TVS MUSIC NETWORK
-http://mains.services:2086/dorec14/Chuckman5525$/100323
+#EXTINF:-1,Da Vinci
+http://139.99.71.104:8888/live/blink14/rblH3Zt5it/36729.ts
 
-#EXTINF:-1 group-title="music2322022",RADIO: DASH THE NEWEST MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/64833
+#EXTINF:-1,Dunia Anak
+https://m3u-editor.com/serve/ooxsgahyng/427774670.m3u8
 
-#EXTINF:-1 group-title="music2322022",RADIO: BBC RADIO 6 MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/99480
+#EXTINF:-1,Dreamworks
+https://m3u-editor.com/serve/ooxsgahyng/427774674.m3u8
 
-#EXTINF:-1 group-title="music2322022",RADIO: 011FM MOTOWN MUSIC
-http://mains.services:2086/dorec14/Chuckman5525$/99502
+#EXTINF:-1,IndiKids
+http://139.99.71.104:8888/live/blink3/1MlJWgY7S3/3479.ts
 
-#EXTINF:-1 group-title="music2322022",|OSN| Music Now
-http://red.ipfox.org:8080/1234/12345678/2873
+#EXTINF:-1,Nick JR
+https://m3u-editor.com/serve/ooxsgahyng/427774671.m3u8
 
-#EXTINF:-1 group-title="music2322022",|NL| Nick Music
-http://red.ipfox.org:8080/1234/12345678/35899
+#EXTINF:-1,Nickelodeon
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 
-#EXTINF:-1 group-title="music2322022",|NL| MTV Music 24
-http://red.ipfox.org:8080/1234/12345678/35892
+#EXTINF:-1,Horee!
+https://m3u-editor.com/serve/ooxsgahyng/427774667.m3u8
 
-#EXTINF:-1 group-title="music2322022",Bill & Ted Face the Music
-http://red.ipfox.org:8080/movie/1234/12345678/29435.mp4
+#EXTINF:-1,Zoo Moo
+https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
 
-#EXTINF:-1 group-title="music2322022",123.Music.And.Lyrics.2007
-http://red.ipfox.org:8080/movie/1234/12345678/705.mp4
+#EXTINF:-1,XingXong
+http://139.99.71.104:8888/live/blink10/PeE6XspguM/36764.ts
 
-#EXTINF:-1 group-title="music2322022",153.The.Music.Box.2018
-http://red.ipfox.org:8080/movie/1234/12345678/1449.mp4
+#EXTINF:-1,Jakarta Globe News Channel
+https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
+
+#EXTINF:-1,IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+
+#EXTINF:-1,ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1,CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1,Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1,#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+
+#EXTINF:-1,Bloomberg
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1,TRT World HD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1,BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1,SKY NEWS
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1,VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1,NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1,NHK World
+https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index_4M.m3u8
+
+#EXTINF:-1,Sea Today
+https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+
+#EXTINF:-1,Blue Ant Entertainment
+http://rr1.dens.tv/h/h16/index.m3u8
+
+#EXTINF:-1,Blue Ant Extreme
+https://m3u-editor.com/serve/m58s8d4zmb/500149769.ts
+
+#EXTINF:-1,Discovery
+https://m3u-editor.com/serve/ooxsgahyng/427774625.m3u8
+
+#EXTINF:-1,CGTN
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1,Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Nat Geo
+https://m3u-editor.com/serve/ooxsgahyng/427774623.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+https://m3u-editor.com/serve/ooxsgahyng/427774624.m3u8
+
+#EXTINF:-1,History
+https://m3u-editor.com/serve/ooxsgahyng/427774649.m3u8
+
+#EXTINF:-1,Crime Investigation
+https://m3u-editor.com/serve/ooxsgahyng/427774627.m3u8
+
+#EXTINF:-1,DMAX
+http://139.99.71.104:8888/live/blink6/LVnfeufg36/483.ts
+
+#EXTINF:-1,Animal Planet
+http://139.99.71.104:8888/live/blink12/CGRHdtZwTL/358.ts
+
+#EXTINF:-1,BBC Earth
+http://139.99.71.104:8888/live/blink9/8f49Egirjk/37449.ts
+
+#EXTINF:-1,Love 4K Nature
+http://139.99.71.104:8888/live/blink5/S0fYNf3IXs/36767.ts
+
+#EXTINF:-1,Lingua
+https://m3u-editor.com/serve/ooxsgahyng/427774629.m3u8
+
+#EXTINF:-1,Fashion TV HD
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,FTV UHD
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1,Fashion TV
+https://dl.dropbox.com/s/seta5w6k1az7rco/fb8acef7631528b.m3u8
+
+#EXTINF:-1,Fashion TV Midnight Secrets
+https://dl.dropbox.com/s/wl1l0b3anjk1zop/fb8acef7631528c.m3u8
+
+#EXTINF:-1,HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1,ID Fashion
+https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+
+#EXTINF:-1,Global Fashion Channel
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
+#EXTINF:-1,HDFashion & Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+
+#EXTINF:-1,9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:-1,Dubai TV
+http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+
+#EXTINF:-1,Love Nature HD
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1,ASTRO CERIA HD
+https://m3u-editor.com/serve/m58s8d4zmb/500149735.ts
+
+#EXTINF:-1,ASTRO HELLO
+https://m3u-editor.com/serve/m58s8d4zmb/500149743.ts
+
+#EXTINF:-1,ASTRO ARENA HD
+https://m3u-editor.com/serve/m58s8d4zmb/500149757.ts
+
+#EXTINF:-1,Astro Rania HD
+https://m3u-editor.com/serve/m58s8d4zmb/500149782.ts
+
+#EXTINF:-1,Astro Aura HD
+https://m3u-editor.com/serve/m58s8d4zmb/500149783.ts
+
+#EXTINF:-1,ASTRO RIA HD
+https://m3u-editor.com/serve/m58s8d4zmb/500149668.ts
+
+#EXTINF:-1,ASTRO PRIMA HD
+https://m3u-editor.com/serve/m58s8d4zmb/500149669.ts
+
+#EXTINF:-1,ASTRO OASIS HD
+https://m3u-editor.com/serve/m58s8d4zmb/500149670.ts
+
+#EXTINF:-1,ASTRO WARNA HD
+https://m3u-editor.com/serve/m58s8d4zmb/500149671.ts
+
+#EXTINF:-1,IKIM
+https://origin.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1,FailArmy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1,The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1,Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+
+#EXTINF:-1,DIGIONE MAXSTREAM
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#EXTINF:-1,The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+
+#EXTINF:-1,Choppertown
+https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
+
+#EXTINF:-1,I AM CHANNEL
+http://iamchannel.org:1935/tes/1/chunklist.m3u8
+
+#EXTINF:-1,Reformed 21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+
+#EXTINF:-1,Citra Bioskop
+https://m3u-editor.com/serve/copr1ul1qd/452113341.m3u8
+
+#EXTINF:-1,Citra Drama
+http://139.99.71.104:8888/live/blink10/PeE6XspguM/905.ts
+
+#EXTINF:-1,K+
+http://rr.dens.tv/h/h08/index.m3u8
+
+#EXTINF:-1,HBO HD
+https://m3u-editor.com/serve/m58s8d4zmb/500149710.ts
+
+#EXTINF:-1,HBO Sig
+https://m3u-editor.com/serve/m58s8d4zmb/500149321.m3u8
+
+#EXTINF:-1,HBO Hits
+https://m3u-editor.com/serve/m58s8d4zmb/500149323.m3u8
+
+#EXTINF:-1,HBO Family
+https://m3u-editor.com/serve/m58s8d4zmb/500149325.m3u8
+
+#EXTINF:-1,CINEMAX HD
+https://m3u-editor.com/serve/m58s8d4zmb/500149711.ts
+
+#EXTINF:-1,TVN ID
+http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
+
+#EXTINF:-1,TvN Movies
+http://139.99.71.104:8888/live/blink5/S0fYNf3IXs/37376.ts
+
+#EXTINF:-1,My Cinema Asia
+https://m3u-editor.com/serve/ooxsgahyng/427774611.m3u8
+
+#EXTINF:-1,My Family Channel
+https://m3u-editor.com/serve/ooxsgahyng/427774610.m3u8
+
+#EXTINF:-1,HITS Movies
+https://m3u-editor.com/serve/ooxsgahyng/427774613.m3u8
+
+#EXTINF:-1,HITS
+https://m3u-editor.com/serve/ooxsgahyng/427774612.m3u8
+
+#EXTINF:-1,AXN
+http://139.99.71.104:8888/live/blink10/PeE6XspguM/9.ts
+
+#EXTINF:-1,Galaxy
+https://m3u-editor.com/serve/ooxsgahyng/427774620.m3u8
+
+#EXTINF:-1,Cinema World
+https://m3u-editor.com/serve/ooxsgahyng/427774615.m3u8
+
+#EXTINF:-1,ATV Movies
+http://139.99.71.104:8888/live/blink6/LVnfeufg36/29899.ts
+
+#EXTINF:-1,Warner TV
+https://m3u-editor.com/serve/ooxsgahyng/427774652.m3u8
+
+#EXTINF:-1,Paramount
+https://m3u-editor.com/serve/ooxsgahyng/427774609.m3u8
+
+#EXTINF:-1,Sinema Indonesia
+http://rr.dens.tv/h/h155/index2.m3u8
+
+#EXTINF:-1,KIX
+http://rr1.dens.tv/h/h07/index.m3u8
+
+#EXTINF:-1,Thrill
+http://rr2.dens.tv/s/s34/01.m3u8
+
+#EXTINF:-1,Celestial Movies
+https://m3u-editor.com/serve/ooxsgahyng/427774614.m3u8
+
+#EXTINF:-1,Bollywood
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+
+#EXTINF:-1,Film Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+
+#EXTINF:-1,Holywood Movie
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1,Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+
+#EXTINF:-1,Wowow Cinema
+http://203.162.235.41:16916/
+
+#EXTINF:-1,Zee Bioskop
+http://rr2.dens.tv/s/s32/index.m3u8
+
+#EXTINF:-1,Flik
+https://m3u-editor.com/serve/ooxsgahyng/427774619.m3u8
+
+#EXTINF:-1,IMC
+https://m3u-editor.com/serve/ooxsgahyng/427774608.m3u8
+
+#EXTINF:-1,B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF:-1,Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
+#EXTINF:-1,Filma 24
+http://62.210.152.92:25461/live/kanale2/Ass/34.ts
+
+#EXTINF:-1,GOLD 1 HD
+http://62.210.152.92:25461/live/kanale2/Ass/35.ts
+
+#EXTINF:-1,Premium 2 HD
+http://62.210.152.92:25461/live/kanale2/Ass/36.ts
+
+#EXTINF:-1,ACTION HD
+http://62.210.152.92:25461/live/kanale2/Ass/37.ts
+
+#EXTINF:-1,Premium 1 HD
+http://62.210.152.92:25461/live/kanale2/Ass/38.ts
+
+#EXTINF:-1,X Family
+http://62.210.152.92:25461/live/kanale2/Ass/40.ts
+
+#EXTINF:-1,PREMIER 1
+http://62.210.152.92:25461/live/kanale2/Ass/41.ts
+
+#EXTINF:-1,Triller HD
+http://62.210.152.92:25461/live/kanale2/Ass/42.ts
+
+#EXTINF:-1,MyCinema
+http://rr.dens.tv/h/h90/S4/mnf.m3u8
+
+#EXTINF:-1,TLC ID
+https://m3u-editor.com/serve/ooxsgahyng/427774659.m3u8
+
+#EXTINF:-1,Sony One
+http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
+
+#EXTINF:-1,FOOD NTWK HD
+https://m3u-editor.com/serve/m58s8d4zmb/500149747.ts
+
+#EXTINF:-1,AFN HD
+https://m3u-editor.com/serve/m58s8d4zmb/500149748.ts
+
+#EXTINF:-1,KIX
+https://m3u-editor.com/serve/ooxsgahyng/427774650.m3u8
+
+#EXTINF:-1,Waku Waku Japan
+http://139.99.71.104:8888/live/blink5/S0fYNf3IXs/717.ts
+
+#EXTINF:-1,Lifetime
+https://m3u-editor.com/serve/ooxsgahyng/427774639.m3u8
+
+#EXTINF:-1,Champions TV 2
+https://m3u-editor.com/live/serve/copr1ul1qd/409160917.m3u8
+
+#EXTINF:-1,Champions TV 3
+https://m3u-editor.com/live/serve/copr1ul1qd/409254760.m3u8
+
+#EXTINF:-1,UseeSports 1
+https://m3u-editor.com/serve/ooxsgahyng/427774600.m3u8
+
+#EXTINF:-1,UseeSports 2
+https://m3u-editor.com/serve/ooxsgahyng/427774601.m3u8
+
+#EXTINF:-1,UseeSports 3
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+
+#EXTINF:-1,Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+
+#EXTINF:-1,Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1,Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1,Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+
+#EXTINF:-1,DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1,UFC stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1,GSTV
+http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist-b2328000_sltur.m3u8
+
+#EXTINF:-1,ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1,beIN Sports 1
+https://m3u-editor.com/serve/ooxsgahyng/427774597.m3u8
+
+#EXTINF:-1,beIN Sports 2
+http://139.99.71.104:8888/live/blink14/rblH3Zt5it/37420.ts
+
+#EXTINF:-1,beIN Sports 3
+https://m3u-editor.com/serve/ooxsgahyng/496576507.m3u8
+
+#EXTINF:-1,NBA TV
+http://peytv.fun/play/fate_store00@peytv.fun/45769222/zwCYnkbr/norvegicus/nba_norvegicus/playlist.m3u8
+
+#EXTINF:-1,WWE Network
+http://139.99.71.104:8888/live/blink9/8f49Egirjk/37435.ts
+
+#EXTINF:-1,Al-Manshuroh 107.9FM
+http://209.58.160.62:11162/stream
+
+#EXTINF:-1,Arrisalah Surabaya  95.7 FM
+http://u.klikhost.net:7212/;
+
+#EXTINF:-1,Ardan 105.9FM
+http://listento.ardanradio.com:1059/;
+
+#EXTINF:-1,B Bandung  95.6  FM
+http://listento.bradio956.fm:8956/;
+
+#EXTINF:-1,Bahana 101.8FM
+http://onlineradiobox.com/ping/id.bahana
+
+#EXTINF:-1,Cakra 90.5FM
+http://dengerin.radiocakrabandung.com:8905/;
+
+#EXTINF:-1,Camajaya  Jakarta  102.6  FM
+http://live.camajayafm.com:8220/;stream.mp3
+
+#EXTINF:-1,Dakwatul Musthofa Medan 88.1 FM
+http://stream.radiodakwahmustofa.com:8724/;
+
+#EXTINF:-1,Dangdut Indonesia   97.1 FM
+http://202.147.199.99:8000/;
+
+#EXTINF:-1,Elpas Bandung 101.2 FM
+http://live.elpasfm.com:8888/elpasfm.m3u
+
+#EXTINF:-1,GajahMada 102.4FM
+http://gajahmada.i.streaming.id:8000/live
+
+#EXTINF:-1,GenFM-Surabaya 103.1FM
+http://103.246.184.34:8000/gensby
+
+#EXTINF:-1,Geronimo 106.1
+http://live2.indostreamserver.com:8018/;
+
+#EXTINF:-1,Global Radio Bandung 89.7FM
+http://202.154.42.226:8000/globalradiobandung.mp3
+
+#EXTINF:-1,Global Radio Jakarta 88.4FM
+http://202.147.199.98/;
+
+#EXTINF:-1,Madu Tulungagung 107.7FM
+http://live.radiomdsfm.com:8550/;stream.nsv
+
+#EXTINF:-1,Pelita Kasih 96.3 FM
+http://rpkfm.indostreamserver.com:8028/;
+
+#EXTINF:-1,REM SSK   107.9FM
+http://202.133.2.250:8000/live
+
+#EXTINF:-1,Retjo Buntung yogyakarta   99.4FM
+http://45.64.97.82:9940/;
+
+#EXTINF:-1,RPK(Radio Pelita Kasih)  96.30FM
+http://119.235.255.206:8030/;
+
+#EXTINF:-1,Satradio   online
+http://satradio.onlivestreaming.net:8585/autodj
+
+#EXTINF:-1,Sindo Trijaya 104.6FM
+http://202.147.199.101:8000/;
+
+#EXTINF:-1,Sonara Radio Jakarta 92.0FM
+http://103.226.246.245/kompas-sonorajakarta
+
+#EXTINF:-1,Strato Surabaya 101.9FM
+http://streaming.stratofm.com:8300/;
+
+#EXTINF:-1,Suara Giri 98.4FM
+http://streaming.girifm.com:8010/;
+
+#EXTINF:-1,V Radio Jakarta 106.6FM
+http://202.147.199.100:8000/;
+
+#EXTINF:-1,CORNERSTONE TV
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+
+#EXTINF:-1,DENVER 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+
+#EXTINF:-1,DREAM CORP LLC
+http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+
+#EXTINF:-1,JBS JE
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+
+#EXTINF:-1,LEOMINSTER TV EDUCATIONAL
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+
+#EXTINF:-1,LIFEVISION TV
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+
+#EXTINF:-1,MR PICKLES
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+
+#EXTINF:-1,OLELO COMMUNITY MEDIA 53
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+
+#EXTINF:-1,PATV
+http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+
+#EXTINF:-1,SBN PT
+http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8
+
+#EXTINF:-1,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+
+#EXTINF:-1,WBRZ-TV BATON ROUGE
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1,WSVI-TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+
+#EXTINF:-1,360 NORTH
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+
+#EXTINF:-1,CC-TV CHARLOTTE COUNTY
+http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+
+#EXTINF:-1,AMERICAN HORRORS
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1,CHANNEL 8
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1,BETTER HEALTH
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+
+#EXTINF:-1,CAROLINA TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1,DARCIZZLE OFFSHORE
+http://30a-tv.com/darcizzle.m3u8
+
+#EXTINF:-1,COMET TV GEO
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+#EXTINF:-1,DC COUNCIL CHANNEL
+http://video.oct.dc.gov/out/u/15_12.m3u8
+
+#EXTINF:-1,DISTRICT OF COLUMBIA NETWORK
+http://video.oct.dc.gov/out/u/DCN.m3u8
+
+#EXTINF:-1,DR GENE SCOTT
+http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+
+#EXTINF:-1,EYE 95 TV
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+
+#EXTINF:-1,INSPIRATION TV
+http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+
+#EXTINF:-1,JEWELRY TELEVISION
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+
+#EXTINF:-1,LEOMINSTER TV GOVERNMENT
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
+
+#EXTINF:-1,LEX TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
+
+#EXTINF:-1,METALOCALYPSE
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+
+#EXTINF:-1,MOBCRUSH
+https://ott.mobcrush.com/hls/0/ott.m3u8
+
+#EXTINF:-1,MTA IS UK
+http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
+
+#EXTINF:-1,FXX WEST PUBLIC-ENTERTAINMENT ENGLISH
+http://9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/1074/index.m3u8
+
+#EXTINF:-1,NRB NETWORK
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1,OLELO COMMUNITY MEDIA 49
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
+
+#EXTINF:-1,OLELO COMMUNITY MEDIA 54
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+
+#EXTINF:-1,RYETV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1,SIDEWALKS
+http://30a-tv.com/sidewalks.m3u8
+
+#EXTINF:-1,TBD TV PUBLIC-ENTERTAINMENT ENGLISH
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+
+#EXTINF:-1,TBN UK
+https://acaooyalahd2-lh.akamaihd.net/i/TBN10_delivery@332891/index_2528_av-p.m3u8
+
+#EXTINF:-1,THE ERIC ANDRE SHOW
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+
+#EXTINF:-1,WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1,WILLIAMS STREAM
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
+#EXTINF:-1,30A TV
+http://30a-tv.com/my999.m3u8
+
+#EXTINF:-1,BETO TV LIFESTYLE ENGLISH
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+#EXTINF:-1,CERRITOS TV3
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
+
+#EXTINF:-1,CHARGE TV PUBLIC-ENTERTAINMENT ENGLISH
+http://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+#EXTINF:-1,EVINE
+https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
+
+#EXTINF:-1,GARLAND TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+
+#EXTINF:-1,GOOD LIFE 45
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+
+#EXTINF:-1,HARVEST TV DOCUMENTARY IN MALAYALAM
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+
+#EXTINF:-1,HVCC RO
+http://cdn.credonet.tv:8081/hvcc/smil:livehv.smil/playlist.m3u8
+
+#EXTINF:-1,LAKE HAVASU CITY 4
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
+
+#EXTINF:-1,LEOMINSTER TV PUBLIC
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
+
+#EXTINF:-1,NWCT 12 MINNESOTA
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
+#EXTINF:-1,OLELO COMMUNITY MEDIA 55
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+
+#EXTINF:-1,SAFETV4U2
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+
+#EXTINF:-1,SMILE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+
+#EXTINF:-1,TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+
+#EXTINF:-1,TEMPE 11
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+
+#EXTINF:-1,TV GALICIA
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1,BETTER NATURE
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+
+#EXTINF:-1,BUTV10
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
+#EXTINF:-1,COMBAT GO
+http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+
+#EXTINF:-1,CTNI ES
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+
+#EXTINF:-1,DAYTONA BEACH TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+
+#EXTINF:-1,#Alive (2020)
+http://srv41.nf21.net/files/10-2020-09-29-7f713096a0e4b4b6b62ea4ba5de58ed0.mp4
+
+#EXTINF:-1,47 Meters Down: Uncaged (2019)
+http://srv32.nf21.net/files/10-2020-02-25-b2c540e38e3f78b677796b361d849d8b.mp4
+
+#EXTINF:-1,6 Underground (2019)
+http://srv32.nf21.net/files/10-2020-04-08-eff9f4788d8290a5bfa67e746989ac8b.mp4
+
+#EXTINF:-1,A Dog's Journey (2019)
+http://srv34.nf21.net/files/19-2020-05-25-74cafc0ce5d5d5b30817d00800918e29.mp4
+
+#EXTINF:-1,A Monster Calls (2017)
+http://srv35.nf21.net/files/19-2020-05-26-addafe3359be10be9184a7f272cadda0.mp4
+
+#EXTINF:-1,Abominable (2019)
+http://srv32.nf21.net/files/10-2020-02-25-a03d329f2f667cea9d3288f89048942b.mp4
+
+#EXTINF:-1,Ad Astra (2019)
+http://srv43.nf21.net/files/19-2020-07-01-7c6233a45e0c030a308bd1cd1dc6ff59.mp4
+
+#EXTINF:-1,Aladdin (2019)
+http://srv39.nf21.net/files/19-2020-06-09-1f40914068f6391ea92ecaf77c0249fb.mp4
+
+#EXTINF:-1,Alita: Battle Angel (2019)
+http://srv32.nf21.net/files/10-2020-02-22-8a778ae70d300895dead3d47a94c944c.mp4
+
+#EXTINF:-1,Alvin and the Chipmunks: The Road Chip (2015)
+http://srv28.nf21.net/files/15-2019-02-24-f34b75697907a30f925ae8e66f8ffa4d.mp4
+
+#EXTINF:-1,American Made (2017)
+http://srv1.nf21.net/files/6-2017-11-02-25fea58db5e1e027c0767eff1a49fa4d.mp4
+
+#EXTINF:-1,American Sniper (2015)
+http://srv42.nf21.net/files/15-2020-07-02-9bd8b995dd34c2cac28ff7c969bad8c4.mp4
+
+#EXTINF:-1,American Traitor: The Trial of Axis Sally (2021)
+http://srv46.nf21.net/files/15-2021-06-07-b6f50ffc9f42865ac10fb10c2fe07ee3.mp4
+
+#EXTINF:-1,Ana (2020)
+http://srv32.nf21.net/files/15-2020-04-18-0271b5638f443e26e4167c8c76ff0cd0.mp4
+
+#EXTINF:-1,Angel Has Fallen (2019)
+http://srv32.nf21.net/files/10-2020-04-02-f9d3cdf38bf7547eac2b483b7484c6be.mp4
+
+#EXTINF:-1,Annabelle Comes Home (2019)
+http://srv41.nf21.net/files/15-2020-12-21-41ff3b33a39e43b1b2b6cda1406ca068.mp4
+
+#EXTINF:-1,Annabelle: Creation (2017)
+http://srv1.nf21.net/files/6-2017-11-02-38fe890249c4994181a615a812ffe449.mp4
+
+#EXTINF:-1,Ant-Man (2015)
+http://srv28.nf21.net/files/15-2019-03-21-5aaa39e814072f33c8943e1472e3a45b.mp4
+
+#EXTINF:-1,Ant-Man and the Wasp (2018)
+http://srv32.nf21.net/files/10-2020-04-20-6296c1f619bf6bdbf233cc821a0b394f.mp4
+
+#EXTINF:-1,Aquaman (2018)
+http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
+
+#EXTINF:-1,Arrival (2016)
+http://srv30.nf21.net/files/15-2018-12-15-9c18277c787d2ba9bc99e8093a43f5e2.mp4
+
+#EXTINF:-1,Artemis Fowl (2020)
+http://srv44.nf21.net/files/15-2020-07-10-5c116e7a661a90844b31204578e8090d.mp4
+
+#EXTINF:-1,Assassin's Creed (2016)
+http://srv39.nf21.net/files/11-2020-06-07-1f125116eb3f3cd4e5cb691b86c91d3f.mp4
+
+#EXTINF:-1,Avengers: Endgame (2019)
+http://srv32.nf21.net/files/10-2020-04-24-8270da303d1db08f3a035c4af7d65d81.mp4
+
+#EXTINF:-1,Avengers: Infinity War (2018)
+http://srv40.nf21.net/files/11-2020-06-08-73299521bf7efeae86650718cf23b5d1.mp4
+
+#EXTINF:-1,Baby Driver (2017)
+http://srv1.nf21.net/files/6-2017-11-02-4ec24e0ece74f07acde2f0f5c0d7121a.mp4
+
+#EXTINF:-1,Bad Boys for Life (2020)
+http://srv43.nf21.net/files/15-2020-10-10-aa49fd6fbe1933b26cda90992da53760.mp4
+
+#EXTINF:-1,Batman v Superman: Dawn of Justice (2016)
+http://srv35.nf21.net/files/11-2020-05-20-8e68979eeb7d4d193fa3728ab555b59f.mp4
+
+#EXTINF:-1,Batman: Soul of the Dragon (2021)
+http://srv41.nf21.net/files/15-2021-01-26-ca524d211b925bf8006cccfaabb53fb0.mp4
+
+#EXTINF:-1,Beauty and the Beast (2017)
+http://srv1.nf21.net/files/6-2017-11-03-87a0bf058afe2cc0ce39c4f26da83935.mp4
+
+#EXTINF:-1,Ben-Hur (2016)
+http://srv37.nf21.net/files/11-2020-06-02-87e60e755394aafb7fdef014c5f702d5.mp4
+
+#EXTINF:-1,Big Eyes (2014)
+http://srv36.nf21.net/files/11-2020-05-31-3354e4a958504b71d3d12cf8db5ac1b0.mp4
+
+#EXTINF:-1,Big Hero 6 (2014)
+http://srv30.nf21.net/files/15-2018-12-13-5205ae1f7247f0647f6f68067db39527.mp4
+
+#EXTINF:-1,Bilal: A New Breed of Hero (2018)
+http://srv39.nf21.net/files/19-2020-06-08-3a1f7b5e92c795f637a8c9c4fac5f144.mp4
+
+#EXTINF:-1,Black Mass (2015)
+http://srv41.nf21.net/files/19-2020-07-20-3894940bbe230460071b51e13e81024d.mp4
+
+#EXTINF:-1,Black Panther (2018)
+http://srv28.nf21.net/files/15-2019-03-17-965dfce15abb3dc1c987f7b14011b240.mp4
+
+#EXTINF:-1,Blackhat (2015)
+http://srv28.nf21.net/files/10-2019-01-28-8acd75fd5ec76b7550c7be13163780da.mp4
+
+#EXTINF:-1,Blair Witch (2016)
+http://srv40.nf21.net/files/19-2020-06-09-7d3a64bef09bad7500447f9f6e9e2e75.mp4
+
+#EXTINF:-1,Blithe Spirit (2021)
+http://srv42.nf21.net/files/15-2021-02-17-531b851275a36ed520c8a2a149f4c0e5.mp4
+
+#EXTINF:-1,Bloodshot (2020)
+http://srv41.nf21.net/files/10-2020-08-29-6a97b9b5fc18354fb6e80b547c8ee9d6.mp4
+
+#EXTINF:-1,Born a Champion (2021)
+http://srv41.nf21.net/files/15-2021-01-19-0e599822836fec6689dbc4f55ed06e5c.mp4
+
+#EXTINF:-1,Bridge of Spies (2015)
+http://srv40.nf21.net/files/11-2020-06-10-9c2d42bd5cbb1ce0e9210083c5f79191.mp4
+
+#EXTINF:-1,Bumblebee (2018)
+http://srv37.nf21.net/files/19-2020-05-30-0f8170fdde6900eda968ffb274832ff6.mp4
+
+#EXTINF:-1,C/o Kancharapalem (2018)
+http://srv35.nf21.net/files/19-2020-05-25-957ae4b5d74e2b9ec803fd9596c64e48.mp4
+
+#EXTINF:-1,Captain America: Civil War (2016)
+http://srv34.nf21.net/files/11-2020-05-28-c1384f30d8dda436b6d066710d943aa0.mp4
+
+#EXTINF:-1,Captain Marvel (2019)
+http://srv44.nf21.net/files/15-2020-12-21-091b79bdfaeb46de1378ecd0c7c60da6.mp4
+
+#EXTINF:-1,Captive State (2019)
+http://srv37.nf21.net/files/19-2020-05-31-0bbaa85a345922b8f7ae96cab6a60f73.mp4
+
+#EXTINF:-1,Cars 3 (2017)
+http://srv1.nf21.net/files/6-2017-10-24-a508a04c7952a75cb11054a17be52d8d.mp4
+
+#EXTINF:-1,Central Intelligence (2016)
+http://srv34.nf21.net/files/11-2020-05-20-f72da429f29aae9c7681dc28473357e2.mp4
+
+#EXTINF:-1,Chappie (2015)
+http://srv34.nf21.net/files/11-2020-05-27-0e54247f49091b93d31975e1de9599cb.mp4
+
+#EXTINF:-1,Charlie's Angels (2019)
+http://srv41.nf21.net/files/15-2021-01-03-acff0b84a89e0d5051175671b66284e0.mp4
+
+#EXTINF:-1,Cinderella (2015)
+http://srv32.nf21.net/files/10-2020-02-23-000d1a1924058df8ac6ce6b3eff672a8.mp4
+
+#EXTINF:-1,Classic Again (2020)
+http://srv44.nf21.net/files/15-2020-07-10-03be81ee1e33c7ca4fea7418ca65d3d1.mp4
+
+#EXTINF:-1,Collateral Beauty (2016)
+http://srv36.nf21.net/files/19-2020-05-29-00a400ab521c16ce97a7b2e5695ec96c.mp4
+
+#EXTINF:-1,Countdown (2019)
+http://srv36.nf21.net/files/19-2020-05-30-6f4d135a05e115614143d08613e2c5e5.mp4
+
+#EXTINF:-1,Crawl (2019)
+http://srv32.nf21.net/files/10-2020-02-24-c8d52c89de98daad5320df66db62b859.mp4
+
+#EXTINF:-1,Crazy Rich Asians (2018)
+http://srv28.nf21.net/files/15-2019-03-17-75766010094d81eaeb0953c94f8feeb4.mp4
+
+#EXTINF:-1,Creed (2015)
+http://srv40.nf21.net/files/11-2020-06-08-a9b1f8b2bc376b6129df1abe73cb7764.mp4
+
+#EXTINF:-1,Daddy's Home (2015)
+http://srv28.nf21.net/files/6-2019-03-10-21050b7008046766dcd116be8b45b59e.mp4
+
+#EXTINF:-1,Dawn of the Planet of the Apes (2014)
+http://srv28.nf21.net/files/15-2019-01-26-fc4e8b5d7966cf91b456c779bcc1c36e.mp4
+
+#EXTINF:-1,Demon Slayer: Mugen Train (2020)
+http://srv46.nf21.net/files/10-2021-05-09-2c837e928e35129c51b1661dae6174fd.mp4
+
+#EXTINF:-1,Despicable Me 3 (2017)
+http://srv1.nf21.net/files/6-2017-11-03-5bd67f4b30b3a84adfbf0d79940c9a59.mp4
+
+#EXTINF:-1,Destroyer (2018)
+http://srv28.nf21.net/files/11-2019-03-15-14d4b1bbca83156033b2134ecff47172.mp4
+
+#EXTINF:-1,Dia (2020)
+http://srv34.nf21.net/files/19-2020-05-20-31436fbe1b522f98262675e6f789a34a.mp4
+
+#EXTINF:-1,Dolittle (2020)
+http://srv36.nf21.net/files/11-2020-05-30-cb8a0aaa115fc32a258f224a7fa67c3a.mp4
+
+#EXTINF:-1,Dolphin Reef (2020)
+http://srv41.nf21.net/files/15-2021-01-26-a7eca403c944bea610a0a2346d388fb4.mp4
+
+#EXTINF:-1,Dracula Untold (2014)
+http://srv28.nf21.net/files/6-2019-03-19-6f9a65eb2464082463cfc0a8922b47ca.mp4
+
+#EXTINF:-1,Dragon Ball Super: Broly (2019)
+http://srv28.nf21.net/files/15-2019-02-18-44fe1639c2f2b9e418e735a9043edf07.mp4
+
+#EXTINF:-1,Dumb and Dumber To (2014)
+http://srv42.nf21.net/files/15-2021-01-12-ebb4acf14290465f8f8938cbe2c7961f.mp4
+
+#EXTINF:-1,Dunkirk (2017)
+http://srv37.nf21.net/files/11-2020-06-01-67dff8cc669c0381674f243e30c0589c.mp4
+
+#EXTINF:-1,Emma. (2020)
+http://srv32.nf21.net/files/15-2020-05-13-e4ded90e146a8b998c11f30866283ea0.mp4
+
+#EXTINF:-1,Endangered Species (2021)
+http://srv46.nf21.net/files/15-2021-06-07-c74706107839904ee7a333819adc07b4.mp4
+
+#EXTINF:-1,Escape Room (2019)
+http://srv40.nf21.net/files/11-2020-06-10-2ebedf3d3e26cf958fb711d9f7915c98.mp4
+
+#EXTINF:-1,Eurovision Song Contest: The Story of Fire Saga (2020)
+http://srv44.nf21.net/files/15-2020-07-11-0c93a5702014a6798e7b129672fbb769.mp4
+
+#EXTINF:-1,Exodus: Gods and Kings (2014)
+http://srv28.nf21.net/files/10-2019-01-08-7c409de963f41779fdf63b3c5078cd52.mp4
+
+#EXTINF:-1,Fantastic Beasts: The Crimes of Grindelwald (2018)
+http://srv30.nf21.net/files/11-2018-12-17-b53efe5cad57afc2c65ad65dfa54a60b.mp4
+
+#EXTINF:-1,Fast & Furious Presents: Hobbs & Shaw (2019)
+http://srv42.nf21.net/files/15-2020-10-21-b4596e298a60c5897c54f7ed87c9d822.mp4
+
+#EXTINF:-1,Fences (2016)
+http://srv33.nf21.net/files/19-2020-05-26-5109962e86652c653cf6b8d32df2f010.mp4
+
+#EXTINF:-1,Finding Dory (2016)
+http://srv33.nf21.net/files/11-2020-05-21-0e310404da1d7e7cb4939b6cc89ed1ed.mp4
+
+#EXTINF:-1,Finding 'Ohana (2021)
+http://srv42.nf21.net/files/15-2021-02-01-a5cb74a957ce34ab41f604b5ad459d03.mp4
+
+#EXTINF:-1,First Man (2018)
+http://srv30.nf21.net/files/10-2018-12-08-ac78ff164d002ce11e9616bac7d933be.mp4
+
+#EXTINF:-1,Force of Nature (2020)
+http://srv44.nf21.net/files/15-2020-07-22-46cb472bd1d74bcb7077414fd77d9206.mp4
+
+#EXTINF:-1,It's My Turn: The Movie (2020)
+http://srv42.nf21.net/files/15-2021-02-17-d0560cc583ea5a2581a344e5016b8fa6.mp4
+
+#EXTINF:-1,Frozen II (2019)
+http://srv41.nf21.net/files/15-2020-12-22-c84f6764c63eea2390ee99cdcb6165c8.mp4
+
+#EXTINF:-1,Gemini Man (2019)
+http://srv32.nf21.net/files/10-2020-02-26-fb52979bc4a25deb7e48a1f0fc5a3b7a.mp4
+
+#EXTINF:-1,Glass (2019)
+http://srv42.nf21.net/files/10-2020-12-24-1a7843b071d304ddd96c582d539356e7.mp4
+
+#EXTINF:-1,Goosebumps 2: Haunted Halloween (2018)
+http://srv30.nf21.net/files/11-2018-12-12-80e3f08d4dff12ffb04e82a6779cb43a.mp4
+
+#EXTINF:-1,Green Book (2018)
+http://srv28.nf21.net/files/15-2019-02-17-1c9a1c1d95ff51a065bb28afd804483b.mp4
+
+#EXTINF:-1,Gretel & Hansel (2020)
+http://srv33.nf21.net/files/11-2020-05-20-9873856c16bd06110ab49bbb9628ac49.mp4
+
+#EXTINF:-1,Caesar! (2016)
+http://srv36.nf21.net/files/11-2020-05-31-caeb87a0e59c5ffafe800530e3922aea.mp4
+
+#EXTINF:-1,Happy Death Day 2U (2019)
+http://srv28.nf21.net/files/11-2019-03-20-b391c417c554c4e522dee662e426f25b.mp4
+
+#EXTINF:-1,Hellboy (2019)
+http://srv32.nf21.net/files/10-2020-02-24-d9c185d5023ce7e0d45a147192f419ff.mp4
+
+#EXTINF:-1,Hello World (2019)
+http://srv42.nf21.net/files/10-2020-12-24-952ff8d66ef131929984c8e7aa8145a7.mp4
+
+#EXTINF:-1,Hercules (2014)
+http://srv32.nf21.net/files/15-2020-05-04-d1bcc67a13e24968a627fcf2cab3d97c.mp4
+
+#EXTINF:-1,Hotel Mumbai (2019)
+http://srv32.nf21.net/files/10-2020-02-25-09ef83eb5af2a1a9c4667417eb1d5ecd.mp4
+
+#EXTINF:-1,Hotel Transylvania 3: Summer Vacation (2018)
+http://srv36.nf21.net/files/11-2020-05-31-af29d81f445c1faf91432de5a997c55a.mp4
+
+#EXTINF:-1,How to Train Your Dragon: The Hidden World (2019)
+http://srv37.nf21.net/files/11-2020-05-30-b5dd6ebb5c68cc951b7b13c6e3b70c3e.mp4
+
+#EXTINF:-1,Ice Age: Collision Course (2016)
+http://srv34.nf21.net/files/11-2020-05-28-a31527352fee020e30455e9224011cf1.mp4
+
+#EXTINF:-1,Incredibles 2 (2018)
+http://srv32.nf21.net/files/10-2020-04-20-e8ca05ddb4c46faafff7583f86e8c872.mp4
+
+#EXTINF:-1,Inferno (2016)
+http://srv30.nf21.net/files/15-2018-12-08-6d778175518b2b6dbe5da078779dc482.mp4
+
+#EXTINF:-1,Insidious: Chapter 3 (2015)
+http://srv28.nf21.net/files/10-2019-01-15-f70ea6f55e2e90f2a50295b8b55a2672.mp4
+
+#EXTINF:-1,Isn't It Romantic (2019)
+http://srv28.nf21.net/files/15-2019-03-02-c1dd4a18e9fb3ca6f51992e5c666f8d8.mp4
+
+#EXTINF:-1,It Chapter Two (2019)
+http://srv41.nf21.net/files/15-2020-12-22-7ef6c4ef8dff7dc968c502aeb5894e13.mp4
+
+#EXTINF:-1,Jack Reacher: Never Go Back (2016)
+http://srv36.nf21.net/files/19-2020-06-01-0882941b85098fedb96b26a98a51b62d.mp4
+
+#EXTINF:-1,John Wick (2014)
+http://srv35.nf21.net/files/19-2020-05-20-9d427b5d320035e88d6347deb257f139.mp4
+
+#EXTINF:-1,John Wick: Chapter 3 - Parabellum (2019)
+http://srv41.nf21.net/files/15-2020-12-22-02b4ad1f49b9e29ab08f6a85ef9b6cc8.mp4
+
+#EXTINF:-1,Jojo Rabbit (2019)
+http://srv34.nf21.net/files/11-2020-05-28-fc27033f55701a9c7a59e0825e7d6ced.mp4
+
+#EXTINF:-1,Joker (2019)
+http://srv33.nf21.net/files/19-2020-05-25-afdc32907a2fae50b25afe5aeb25d520.mp4
+
+#EXTINF:-1,Joy (2015)
+http://srv30.nf21.net/files/10-2018-12-19-5592a6a59f90c5c8e8bf4fb72a8051f4.mp4
+
+#EXTINF:-1,Jumanji: The Next Level (2019)
+http://srv43.nf21.net/files/15-2020-10-10-b7a9ae0d57b5c3788aec96c71cb4b32b.mp4
+
+#EXTINF:-1,Jumanji: Welcome to the Jungle (2017)
+http://srv37.nf21.net/files/11-2020-05-30-8aaf7aed906e1d96a7bb0d18d3a112a3.mp4
+
+#EXTINF:-1,Jupiter Ascending (2015)
+http://srv43.nf21.net/files/19-2020-07-14-38bc4c15eeefc96f7db013b4a718eb6b.mp4
+
+#EXTINF:-1,Jurassic World (2015)
+http://srv43.nf21.net/files/19-2020-07-06-4c27f47884101b92d00fea5f8920ce06.mp4
+
+#EXTINF:-1,Justice League (2017)
+http://srv34.nf21.net/files/19-2020-05-20-5a8b260ea31b1806ee0068d951045c06.mp4
+
+#EXTINF:-1,Justice League Dark: Apokolips War (2020)
+http://srv32.nf21.net/files/15-2020-05-07-8c982704aaf2c6d5162be38b1fea6963.mp4
+
+#EXTINF:-1,Kingsman: The Secret Service (2015)
+http://srv44.nf21.net/files/19-2020-07-09-1c11e74634eca205bf5cf0e85c65bbc4.mp4
+
+#EXTINF:-1,Kong: Skull Island (2017)
+http://srv37.nf21.net/files/11-2020-05-31-4a58c06391d0954c1192206eee1b660d.mp4
+
+#EXTINF:-1,Krampus (2015)
+http://srv44.nf21.net/files/11-2020-07-07-4f4cfdbb398f002e51be91507f5db30d.mp4
+
+#EXTINF:-1,Kubo and the Two Strings (2016)
+http://srv39.nf21.net/files/19-2020-06-10-a9a0ea33f78230a7741f7a77bc60eafc.mp4
+
+#EXTINF:-1,La La Land (2016)
+http://srv28.nf21.net/files/15-2019-02-12-0de6b9ed5968579c73f5105ec315a1ed.mp4
+
+#EXTINF:-1,Let's Be Cops (2014)
+http://srv28.nf21.net/files/11-2019-01-30-2d31a93c4390e64821935212db370ac9.mp4
+
+#EXTINF:-1,Lights Out (2016)
+http://srv28.nf21.net/files/15-2019-02-02-a81584584b6cf73df4f0ff30ff822fac.mp4
+
+#EXTINF:-1,Lion (2017)
+http://srv37.nf21.net/files/19-2020-05-30-f8333a3573e8c18fb876adbb233911a7.mp4
+
+#EXTINF:-1,Maleficent: Mistress of Evil (2019)
+http://srv36.nf21.net/files/11-2020-06-02-f1eda41a5059f54eee860b68ede558af.mp4
+
+#EXTINF:-1,Mallesham (2019)
+http://srv41.nf21.net/files/15-2020-09-07-e9d43b328476d2498b015c6c79f63c5e.mp4
+
+#EXTINF:-1,Marriage Story (2019)
+http://srv32.nf21.net/files/10-2020-02-22-f86ed9b1f2dc0bb40c987205e300d460.mp4
+
+#EXTINF:-1,Mary Poppins Returns (2018)
+http://srv43.nf21.net/files/19-2020-07-05-bbb5fe1cff596a0534711d79be28e97c.mp4
+
+#EXTINF:-1,Masterminds (2016)
+http://srv41.nf21.net/files/19-2020-07-06-99219906683530f19acbb00feac41646.mp4
+
+#EXTINF:-1,Maze Runner: The Scorch Trials (2015)
+http://srv44.nf21.net/files/19-2020-07-11-63f41f75cc047607bda4686f895c33c6.mp4
+
+#EXTINF:-1,Me Before You (2016)
+http://srv28.nf21.net/files/10-2019-01-29-936977ad08a8f78ba29af5b1caa524bb.mp4
+
+#EXTINF:-1,Men in Black: International (2019)
+http://srv37.nf21.net/files/19-2020-05-29-bf27a1ac07e186625f278d1598dec159.mp4
+
+#EXTINF:-1,Midway (2019)
+http://srv34.nf21.net/files/19-2020-05-27-db551998833ace684a7580829afccc81.mp4
+
+#EXTINF:-1,Minions (2015)
+http://srv28.nf21.net/files/15-2019-02-03-e9c60c6ec4416db6ef416a2f8b1753a1.mp4
+
+#EXTINF:-1,Minions Holiday Special (2020)
+http://srv41.nf21.net/files/15-2020-12-04-4eb830cface6733137688253c164342a.mp4
+
+#EXTINF:-1,Mission: Impossible - Fallout (2018)
+http://srv32.nf21.net/files/10-2020-04-13-e31596bce01d5c1b2f8781c4dce01fe7.mp4
+
+#EXTINF:-1,Moana (2016)
+http://srv28.nf21.net/files/10-2019-02-16-0a44292732ea894da4aa2747f2e87901.mp4
+
+#EXTINF:-1,Mortal Kombat (2021)
+http://srv44.nf21.net/files/10-2021-04-27-a0b85adabf8a41a9ea4a6ba616ee2109.mp4
+
+#EXTINF:-1,Mulan (2020)
+http://srv41.nf21.net/files/15-2020-10-14-181bce8bfb76d43f9f8714f3ea2a3ca0.mp4
+
+#EXTINF:-1,My Spy (2020)
+http://srv41.nf21.net/files/15-2020-07-10-44d40dc2be30e625f186401e6677d906.mp4
+
+#EXTINF:-1,Night at the Museum: Secret of the Tomb (2014)
+http://srv28.nf21.net/files/15-2019-01-31-2fb16b145003070496e55ac1952767d4.mp4
+
+#EXTINF:-1,Nightcrawler (2014)
+http://srv28.nf21.net/files/15-2019-03-05-ba425292272ce436da4e17d3f36200a3.mp4
+
+#EXTINF:-1,Now You See Me 2 (2016)
+http://srv40.nf21.net/files/19-2020-06-11-e20237d43952dbf805b0d9bdc445b4d5.mp4
+
+#EXTINF:-1,Once Upon a Time... in Hollywood (2019)
+http://srv33.nf21.net/files/19-2020-05-28-eca737adcd26f33b8474dd2f7f5558cb.mp4
+
+#EXTINF:-1,Oththa Seruppu Size 7 (2019)
+http://srv41.nf21.net/files/15-2020-09-07-cd6d9fcfc4388317f26ceffd217e571a.mp4
+
+#EXTINF:-1,Pacific Rim (2013)
+http://srv28.nf21.net/files/10-2019-01-16-d6ed98dc272dccbe81954c8d8da98e6d.mp4
+
+#EXTINF:-1,Pacific Rim: Uprising (2018)
+http://srv28.nf21.net/files/10-2019-01-16-444e027d1abaab0bc1a8d68f3b13ea48.mp4
+
+#EXTINF:-1,Palm Springs (2020)
+http://srv44.nf21.net/files/15-2020-07-17-fb86b959c60dd1435a9fa571e83b775e.mp4
+
+#EXTINF:-1,Pan (2015)
+http://srv28.nf21.net/files/11-2019-02-01-9a4022d999a148672cb778d6836046f6.mp4
+
+#EXTINF:-1,Pariyerum Perumal (2018)
+http://srv30.nf21.net/files/11-2018-12-28-920abbed725dc7acd071f9f5ff1f2d73.mp4
+
+#EXTINF:-1,Passengers (2016)
+http://srv30.nf21.net/files/10-2018-12-15-3808d31ce9014cb3106e248079deedc6.mp4
+
+#EXTINF:-1,Paterson (2016)
+http://srv28.nf21.net/files/15-2019-01-29-9c15ad6d109a05242864f9ecc89b860f.mp4
+
+#EXTINF:-1,Patriots Day (2017)
+http://srv40.nf21.net/files/11-2020-06-09-5a61b2128d9a731bc0e2bfb29c083829.mp4
+
+#EXTINF:-1,Peranbu (2019)
+http://srv36.nf21.net/files/19-2020-06-01-269a9a019105c432e12dcc4334bd9fa1.mp4
+
+#EXTINF:-1,Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+http://srv1.nf21.net/files/6-2017-11-02-db4fb8bcfb032801ae0bef72f09a0277.mp4
+
+#EXTINF:-1,Pitch Perfect 3 (2017)
+http://srv30.nf21.net/files/15-2018-12-16-2a0bb032249465e944543ace063a77cd.mp4
+
+#EXTINF:-1,Pixels (2015)
+http://srv28.nf21.net/files/6-2019-03-11-e6c9b78c8f176000faf07baf1b589c8d.mp4
+
+#EXTINF:-1,Playing with Fire (2019)
+http://srv32.nf21.net/files/15-2020-04-26-b3b48331192fd28d3c29153f2e2888f7.mp4
+
+#EXTINF:-1,Point Break (2015)
+http://srv42.nf21.net/files/19-2020-07-07-da69d17a1b3d6113a56047e4fb381aee.mp4
+
+#EXTINF:-1,PokГѓВ©mon Detective Pikachu (2019)
+http://srv42.nf21.net/files/15-2020-12-22-8dadbc6f2033cb74125645a87290a368.mp4
+
+#EXTINF:-1,Project Almanac (2015)
+http://srv44.nf21.net/files/11-2020-07-11-524afafd81c08abe4c7bdd7f8caa4d61.mp4
+
+#EXTINF:-1,Project Power (2020)
+http://srv41.nf21.net/files/15-2020-08-27-71106277ce4e0df3404bd5a42844fc7b.mp4
+
+#EXTINF:-1,Racetime (2019)
+http://srv28.nf21.net/files/11-2019-03-15-07f7693d7672b9b9ecc675090f7b33e2.mp4
+
+#EXTINF:-1,Ralph Breaks the Internet (2018)
+http://srv34.nf21.net/files/19-2020-05-20-b4648ae6b2ca3164ca176ddee0cdc14a.mp4
+
+#EXTINF:-1,Ready or Not (2019)
+http://srv36.nf21.net/files/11-2020-05-30-0beb09640009c9498243656bee127c08.mp4
+
+#EXTINF:-1,Resident Evil: The Final Chapter (2017)
+http://srv41.nf21.net/files/19-2020-07-20-8338c9e215f3ecf1ddd31b8919befb54.mp4
+
+#EXTINF:-1,Ride Along 2 (2016)
+http://srv37.nf21.net/files/19-2020-06-01-9b897ff65fe8e1a4cb42ce520a8af50a.mp4
+
+#EXTINF:-1,Rings (2017)
+http://srv41.nf21.net/files/19-2020-07-20-2b3d3c6beee96051ae0706931f3be0b7.mp4
+
+#EXTINF:-1,Risen (2016)
+http://srv32.nf21.net/files/15-2020-04-22-81a5d95275feb7370774ee189640f4a6.mp4
+
+#EXTINF:-1,Robin Hood (2018)
+http://srv32.nf21.net/files/10-2020-02-22-bf835fdf7f18c68ee0c5c3e5011f09f9.mp4
+
+#EXTINF:-1,Rogue One: A Star Wars Story (2016)
+http://srv34.nf21.net/files/11-2020-05-28-057a0a1043d8279ba7cbc93d4458c4a1.mp4
+
+#EXTINF:-1,Run Hide Fight (2021)
+http://srv41.nf21.net/files/15-2021-01-21-ec6822a1e992418664330763e8e95676.mp4
+
+#EXTINF:-1,Sausage Party (2016)
+http://srv44.nf21.net/files/15-2020-09-29-a2a6d80720145cf9818a6faa820da5f7.mp4
+
+#EXTINF:-1,Seventh Son (2015)
+http://srv28.nf21.net/files/11-2019-01-21-2bcc098a69e2b5d512e70d705b13fea8.mp4
+
+#EXTINF:-1,Shazam! (2019)
+http://srv43.nf21.net/files/15-2020-12-22-90b8cace3368e292c82086907fed93c1.mp4
+
+#EXTINF:-1,Silence (2017)
+http://srv41.nf21.net/files/19-2020-07-06-938122d01edbb3c54982596c2b98b5d8.mp4
+
+#EXTINF:-1,Sing (2016)
+http://srv28.nf21.net/files/10-2019-01-08-04b8cc781f394a0b6359d205dc944a2a.mp4
+
+#EXTINF:-1,Sniper: Assassin's End (2020)
+http://srv42.nf21.net/files/15-2020-07-02-0fa184a3ba0cb218596a77587e5bb37c.mp4
+
+#EXTINF:-1,Sonic the Hedgehog (2020)
+http://srv35.nf21.net/files/19-2020-05-19-ebd97dc8299f9ea744815557263fbb58.mp4
+
+#EXTINF:-1,Southpaw (2015)
+http://srv30.nf21.net/files/15-2018-12-06-99ab9857b4f80feafb69821ab5788b90.mp4
+
+#EXTINF:-1,Spectre (2015)
+http://srv28.nf21.net/files/11-2019-01-30-bdcdfb36e5900b7678c8f6d95e28edcf.mp4
+
+#EXTINF:-1,Spider-Man: Far from Home (2019)
+http://srv34.nf21.net/files/11-2020-05-19-a2a7c519ab342a9049703009b4ef0ca6.mp4
+
+#EXTINF:-1,Spider-Man: Homecoming (2017)
+http://srv1.nf21.net/files/6-2017-11-03-893b773994b269ad662122cf785dbb70.mp4
+
+#EXTINF:-1,Spider-Man: Into the Spider-Verse (2018)
+http://srv28.nf21.net/files/11-2019-02-28-ad3bbf17b2e4db3425e76338ed3fe6e2.mp4
+
+#EXTINF:-1,Spies in Disguise (2019)
+http://srv32.nf21.net/files/15-2020-05-16-d5e99f6b3df7a87298db30a98a87cf09.mp4
+
+#EXTINF:-1,Spiral (2021)
+http://srv46.nf21.net/files/15-2021-06-07-6a69e1c44e24197391c15ef0ccbc47b1.mp4
+
+#EXTINF:-1,Spy (2015)
+http://srv30.nf21.net/files/15-2018-12-04-e93971506fdf0d8d2a617a739f82c420.mp4
+
+#EXTINF:-1,Stand by Me Doraemon 2 (2020)
+http://srv43.nf21.net/files/15-2021-04-14-997882cd8090701e0eec5709dde71b8e.mp4
+
+#EXTINF:-1,Star Wars: Episode IX - The Rise of Skywalker (2019)
+http://srv32.nf21.net/files/10-2020-02-23-6826eaebb51ee5fdce44fb7bba954a8b.mp4
+
+#EXTINF:-1,Star Wars: Episode VII - The Force Awakens (2015)
+http://srv40.nf21.net/files/11-2020-06-09-afa7f07b8adf39938662f00ae57d7f40.mp4
+
+#EXTINF:-1,Star Wars: Episode VIII - The Last Jedi (2017)
+http://srv43.nf21.net/files/11-2020-07-07-e41f86944c1fbcdd041d5f9dd8cd464e.mp4
+
+#EXTINF:-1,Steve Jobs (2015)
+http://srv42.nf21.net/files/11-2020-07-10-62143eb2c8bb930e87e93bb914d8ffd2.mp4
+
+#EXTINF:-1,Storks (2016)
+http://srv36.nf21.net/files/11-2020-06-01-b5f6e7933da6212ed89b8804f636cd57.mp4
+
+#EXTINF:-1,Suicide Squad (2016)
+http://srv35.nf21.net/files/19-2020-05-21-6406963dd6deec72641b43f17665006c.mp4
+
+#EXTINF:-1,Sultan (2021)
+http://srv46.nf21.net/files/10-2021-05-30-97d3de65cf2ff1e75668190b867f4882.mp4
+
+#EXTINF:-1,Synchronic (2020)
+http://srv42.nf21.net/files/15-2021-01-16-9435ad4be38625463649bff375e3fd60.mp4
+
+#EXTINF:-1,Teenage Mutant Ninja Turtles (2014)
+http://srv36.nf21.net/files/11-2020-06-01-44f4c8aba89f4db4180ea79463564396.mp4
+
+#EXTINF:-1,Tenet (2020)
+http://srv42.nf21.net/files/15-2020-12-29-474283543412df97255d2e9efa1f8119.mp4
+
+#EXTINF:-1,The Accountant (2016)
+http://srv43.nf21.net/files/19-2020-07-05-c6d4ad1c37cd812807eef01c22deddbb.mp4
+
+#EXTINF:-1,The Age of Adaline (2015)
+http://srv44.nf21.net/files/19-2020-07-01-af68c9f6be3ce4277d40874fd85e374b.mp4
+
+#EXTINF:-1,The Best of Enemies (2019)
+http://srv37.nf21.net/files/19-2020-05-31-1c21ec072e4b9e908006de31d3337559.mp4
+
+#EXTINF:-1,The Boss (2016)
+http://srv41.nf21.net/files/15-2020-10-15-5b50add70aae3bc160dd6be5f6a7fd13.mp4
+
+#EXTINF:-1,The Boxtrolls (2014)
+http://srv34.nf21.net/files/11-2020-05-20-8ee0d617d5103107dc0fa9cfda2c456e.mp4
+
+#EXTINF:-1,The Boy (2016)
+http://srv30.nf21.net/files/10-2018-12-14-35a18f73ff8e5be3b1ee7723d13fda11.mp4
+
+#EXTINF:-1,The Call of the Wild (2020)
+http://srv33.nf21.net/files/11-2020-05-19-c2b3453a6bbe8f7dd3c03024ca159c9b.mp4
+
+#EXTINF:-1,The Commuter (2018)
+http://srv32.nf21.net/files/10-2020-04-01-e6b564006dd21c81439da234bd9f0ec7.mp4
+
+#EXTINF:-1,The Conjuring 2 (2016)
+http://srv28.nf21.net/files/10-2019-03-01-66d8a322f79dfecee1244729d8b2d55c.mp4
+
+#EXTINF:-1,The Conjuring 3: The Devil Made Me Do It (2021)
+http://srv46.nf21.net/files/15-2021-06-07-96ac747e698bab56d77da92600015c37.mp4
+
+#EXTINF:-1,The Conquest of Siberia (2019)
+http://srv42.nf21.net/files/15-2021-02-06-2f5b05218127f51937e55123dc5c28c5.mp4
+
+#EXTINF:-1,The Corrupted (2020)
+http://srv41.nf21.net/files/15-2021-01-20-8340724bdda9d800f532b5714fe63326.mp4
+
+#EXTINF:-1,The Curse of la Llorona (2019)
+http://srv38.nf21.net/files/19-2020-06-06-1275eaaa17eefe53145e9c560e39ec13.mp4
+
+#EXTINF:-1,The Dark Tower (2017)
+http://srv1.nf21.net/files/6-2017-11-03-c61c360fcc9d397f4c442f67d7cc8751.mp4
+
+#EXTINF:-1,The Dig (2021)
+http://srv42.nf21.net/files/15-2021-02-01-d538689c418c15f3d677f8b8a54118a3.mp4
+
+#EXTINF:-1,The Emoji Movie (2017)
+http://srv42.nf21.net/files/15-2020-08-04-ac144c52c5c1d5c0d1d2349f1c0a9873.mp4
+
+#EXTINF:-1,The Expendables 3 (2014)
+http://srv44.nf21.net/files/15-2020-10-09-da307c6050d1515ed649b3dedac489a9.mp4
+
+#EXTINF:-1,The Fate of the Furious (2017)
+http://srv34.nf21.net/files/19-2020-05-25-255830dae6f227d34c20dc9f06f916e1.mp4
+
+#EXTINF:-1,The Giver (2014)
+http://srv28.nf21.net/files/15-2019-02-01-db479bda889c6d379ec5e84b3d7eea63.mp4
+
+#EXTINF:-1,The Good Dinosaur (2015)
+http://srv28.nf21.net/files/6-2019-03-11-af9968656727ea9a84e67b2fc677c062.mp4
+
+#EXTINF:-1,The Greatest Showman (2017)
+http://srv30.nf21.net/files/10-2018-12-09-d15519d82a3a413d42e5e5fbc2212af7.mp4
+
+#EXTINF:-1,The Hunger Games: Mockingjay - Part 1 (2014)
+http://srv28.nf21.net/files/10-2019-01-11-5868f2a612ceca82c6ad163c7143cbe9.mp4
+
+#EXTINF:-1,The Hunger Games: Mockingjay - Part 2 (2015)
+http://srv30.nf21.net/files/15-2018-12-10-29ed0fd92ab00b8191fc7b774d54524f.mp4
+
+#EXTINF:-1,The Hustle (2019)
+http://srv35.nf21.net/files/19-2020-05-19-b12ea2832c9e30ca49854b76a69a337d.mp4
+
+#EXTINF:-1,The Imitation Game (2014)
+http://srv30.nf21.net/files/11-2018-12-25-e4d43986f8cbf395ca75ee496673ad5d.mp4
+
+#EXTINF:-1,The Invisible Man (2020)
+http://srv44.nf21.net/files/15-2020-07-10-42508fca0ed74593ffa953c9fe490501.mp4
+
+#EXTINF:-1,The Irishman (2019)
+http://srv43.nf21.net/files/15-2020-12-22-e3e08fd8c1d7857488ef7c337e9f0ad7.mp4
+
+#EXTINF:-1,The Judge (2014)
+http://srv42.nf21.net/files/11-2020-07-11-ef91d20602a07c96e7277c48b4184982.mp4
+
+#EXTINF:-1,The Jungle Book (2016)
+http://srv43.nf21.net/files/11-2020-07-07-dfcf832b4ffe981ccd8ae03ef033fd74.mp4
+
+#EXTINF:-1,The Kid Who Would Be King (2019)
+http://srv33.nf21.net/files/11-2020-05-25-bf3e38cb934985a4da0b2422c71957c5.mp4
+
+#EXTINF:-1,The Kissing Booth 2 (2020)
+http://srv44.nf21.net/files/15-2020-07-27-986e9be76758aaff56e862f97bcb7d8d.mp4
+
+#EXTINF:-1,The Legend of Tarzan (2016)
+http://srv34.nf21.net/files/11-2020-05-19-17547c408072eba8724ecb7b91a6191e.mp4
+
+#EXTINF:-1,The Lego Batman Movie (2017)
+http://srv27.nf21.net/files/15-2018-11-20-fdf89cd35d0977dfd923fdfa9a076414.mp4
+
+#EXTINF:-1,The Lego Movie 2: The Second Part (2019)
+http://srv41.nf21.net/files/19-2020-07-02-bde28d4ca093ff6ffd2ad70863ce9e8a.mp4
+
+#EXTINF:-1,The Lion King (2019)
+http://srv32.nf21.net/files/10-2020-02-22-c71f1816294f1abb13f0cf601ad7322a.mp4
+
+#EXTINF:-1,The Magnificent Seven (2016)
+http://srv36.nf21.net/files/19-2020-05-30-1f9c59e3e680fa272896f26004e0f574.mp4
+
+#EXTINF:-1,The Man from U.N.C.L.E. (2015)
+http://srv43.nf21.net/files/19-2020-07-20-8ccafdb4fe1ac1f774eeebe7795f1942.mp4
+
+#EXTINF:-1,The Monkey King 3 (2018)
+http://srv28.nf21.net/files/10-2019-01-04-c4f8ea2c9704e2c8cec10799a235d352.mp4
+
+#EXTINF:-1,The Mountain II (2016)
+http://srv28.nf21.net/files/15-2019-01-30-65e2271a0242e2265e3647702017ec35.mp4
+
+#EXTINF:-1,The Nun (2018)
+http://srv41.nf21.net/files/15-2020-10-14-464f9fcd7fec6b408117284f8397382f.mp4
+
+#EXTINF:-1,The Nutcracker and the Four Realms (2018)
+http://srv35.nf21.net/files/19-2020-05-20-4b314ba5fec49a3f1dcdbd2f55f389b0.mp4
+
+#EXTINF:-1,The Old Guard (2020)
+http://srv41.nf21.net/files/15-2020-07-14-a909f48d829e59782147c5c70d5ab760.mp4
+
+#EXTINF:-1,The Outpost (2020)
+http://srv44.nf21.net/files/15-2020-07-07-0ed6501532623c43d94ea294a44b92aa.mp4
+
+#EXTINF:-1,The Purge: Election Year (2016)
+http://srv41.nf21.net/files/19-2020-07-06-616a459d29ec1136c23094415a6dc4ee.mp4
+
+#EXTINF:-1,The Quarry (2020)
+http://srv32.nf21.net/files/15-2020-04-23-50066639be98180896fc104f9a97d278.mp4
+
+#EXTINF:-1,The Revenant (2016)
+http://srv44.nf21.net/files/11-2020-07-13-67669ee712fedbb44ed31e0e13620f0b.mp4
+
+#EXTINF:-1,The Secret Life of Pets (2016)
+http://srv28.nf21.net/files/15-2019-01-31-5c3301b06851a05e28418f4e88d8198c.mp4
+
+#EXTINF:-1,The Secret Life of Pets 2 (2019)
+http://srv32.nf21.net/files/10-2020-05-13-5d3ff4af8d8acc0894e5f995d5a3c21b.mp4
+
+#EXTINF:-1,The Shack (2017)
+http://srv34.nf21.net/files/11-2020-05-28-e4eba0c7ab768b668985f125c0ad86f8.mp4
+
+#EXTINF:-1,The Shallows (2016)
+http://srv28.nf21.net/files/10-2019-01-02-39c892adff677b362b73a240e5098783.mp4
+
+#EXTINF:-1,The Shawshank Redemption (1994)
+http://srv40.nf21.net/files/19-2020-06-10-bd3feba75fb770ed8103f5b87def1c5d.mp4
+
+#EXTINF:-1,The SpongeBob Movie: Sponge on the Run (2020)
+http://srv41.nf21.net/files/15-2020-12-15-efd7b395bbe0b30ce1bbf77a99794e7e.mp4
+
+#EXTINF:-1,The SpongeBob Movie: Sponge Out of Water (2015)
+http://srv32.nf21.net/files/15-2020-05-06-159ff906274daa7d35fa49fbaea29e81.mp4
+
+#EXTINF:-1,The Theory of Everything (2014)
+http://srv28.nf21.net/files/15-2019-02-05-01a3eecc8e08042cc42e8d0233ba8055.mp4
+
+#EXTINF:-1,The Unholy (2021)
+http://srv46.nf21.net/files/15-2021-06-07-e02e4ee342a9bf349497bf784507cca0.mp4
+
+#EXTINF:-1,The White Storm 2: Drug Lords (2019)
+http://srv37.nf21.net/files/11-2020-06-02-1238eee0ee43701a7f1c2c7a21230fb9.mp4
+
+#EXTINF:-1,The White Tiger (2021)
+http://srv41.nf21.net/files/15-2021-01-24-2fa6526f4381ae874d759d3fa34ac492.mp4
+
+#EXTINF:-1,The Woman in Black 2: Angel of Death (2015)
+http://srv28.nf21.net/files/15-2019-03-19-5476b48e26c6335de69869747630c5d7.mp4
+
+#EXTINF:-1,Theater (2020)
+http://sj85.drakor.id/files/22-2021-02-14-09af6f102e56c5212bc6cd1e08052867.mp4
+
+#EXTINF:-1,This Is It (2009)
+http://srv33.nf21.net/files/19-2020-05-20-bcc627455564f276b6bab15fe942a584.mp4
+
+#EXTINF:-1,Thor: Ragnarok (2017)
+http://srv36.nf21.net/files/19-2020-05-29-c5933fc2de9c372ae103a1d2fe8232d4.mp4
+
+#EXTINF:-1,Those Who Wish Me Dead (2021)
+http://srv46.nf21.net/files/15-2021-05-18-e5ac648319fe21c33f3f279e75aac175.mp4
+
+#EXTINF:-1,Tinker' (2018)
+http://srv30.nf21.net/files/11-2018-12-09-b993b806d2af9ad0ded6b9abf87b239d.mp4
+
+#EXTINF:-1,Tomorrowland (2015)
+http://srv40.nf21.net/files/19-2020-06-08-f9e39ad089cafcc7ab22c474988a9b04.mp4
+
+#EXTINF:-1,Toy Story 4 (2019)
+http://srv44.nf21.net/files/15-2020-12-22-4b9da24e4dc27ac675e74b9fcb36f87a.mp4
+
+#EXTINF:-1,Train to Busan: Peninsula (2020)
+http://srv41.nf21.net/files/10-2020-08-31-a68889e199b15733bbf4c42aa908e743.mp4
+
+#EXTINF:-1,Transformers: The Last Knight (2017)
+http://srv33.nf21.net/files/19-2020-05-26-72e79ed621b6dd9b2b8f197cfa495a87.mp4
+
+#EXTINF:-1,Tribhanga (2021)
+http://srv41.nf21.net/files/15-2021-01-20-26ea9d4ddb6bbe59cd9a4e517229931e.mp4
+
+#EXTINF:-1,Triple Threat (2019)
+http://srv37.nf21.net/files/11-2020-06-02-3172447dd7fe5f5206effab1652e5eca.mp4
+
+#EXTINF:-1,Unbroken (2014)
+http://srv32.nf21.net/files/15-2020-05-06-e8c266b708efacc626d2c47b925741f1.mp4
+
+#EXTINF:-1,Underwater (2020)
+http://srv43.nf21.net/files/15-2020-10-11-c5be728e5f9be43675ea7fbf2b7ae453.mp4
+
+#EXTINF:-1,Underworld: Blood Wars (2017)
+http://srv28.nf21.net/files/15-2019-02-16-0b55e75307aceab8c07fe9f665826a7c.mp4
+
+#EXTINF:-1,Unhinged (2020)
+http://srv42.nf21.net/files/15-2020-10-22-360046eea9ec1de62318600cdf4bef24.mp4
+
+#EXTINF:-1,Us (2019)
+http://srv39.nf21.net/files/11-2020-06-08-01cf3cc197ef22d7fd583136c414cdc0.mp4
+
+#EXTINF:-1,Valerian and the City of a Thousand Planets (2017)
+http://srv28.nf21.net/files/10-2019-01-08-6acc9aeed9b741961b13120f2f7c1fb4.mp4
+
+#EXTINF:-1,Venom (2018)
+http://srv30.nf21.net/files/10-2018-12-21-e6716ea4a4cc7456cfb1a2a1b417d827.mp4
+
+#EXTINF:-1,Vice (2018)
+http://srv28.nf21.net/files/11-2019-03-09-36cf6c3a5e32954d26ef3390959628f9.mp4
+
+#EXTINF:-1,Victor Frankenstein (2015)
+http://srv28.nf21.net/files/15-2019-02-18-4a5e91daddac9423397fe944545f26a7.mp4
+
+#EXTINF:-1,War Dogs (2016)
+http://srv36.nf21.net/files/19-2020-05-31-15b00909758732168eba804c4ce24425.mp4
+
+#EXTINF:-1,Warcraft (2016)
+http://srv40.nf21.net/files/11-2020-06-08-d8c338699c447c278f28b1d3d8251225.mp4
+
+#EXTINF:-1,Whiplash (2014)
+http://srv28.nf21.net/files/15-2019-02-15-dd28f5aee119c3b284e4e2466d59ccbf.mp4
+
+#EXTINF:-1,Wonder Park (2019)
+http://srv32.nf21.net/files/10-2020-02-23-a095cc11814722b15186b2db8859cf1f.mp4
+
+#EXTINF:-1,Wonder Woman (2017)
+http://srv1.nf21.net/files/6-2017-11-04-29a2905f9f654911fd4c152d68f44644.mp4
+
+#EXTINF:-1,Wrong Turn (2021)
+http://srv42.nf21.net/files/15-2021-02-15-33f21115b058392f467b2fe4d0479771.mp4
+
+#EXTINF:-1,X-Men: Apocalypse (2016)
+http://srv30.nf21.net/files/10-2018-12-17-b62ff89191fa3767c8f5489ce4a16ea5.mp4
+
+#EXTINF:-1,You Should Have Left (2020)
+http://srv42.nf21.net/files/15-2020-10-21-90e7dc2f11ff0c457dc777873f53386f.mp4IFTV.m3u
